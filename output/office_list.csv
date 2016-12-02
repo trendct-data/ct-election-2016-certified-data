@@ -1,0 +1,345 @@
+D,DT,NM,OO,OT,weird
+0,,Presidential Electors for,1,SW,1
+0,,United States Senator,2,SW,201
+1,Connecticut 01,Representative in Congress 01,3,C,3
+2,Connecticut 02,Representative in Congress 02,4,C,4
+3,Connecticut 03,Representative in Congress 03,5,C,5
+4,Connecticut 04,Representative in Congress 04,6,C,6
+5,Connecticut 05,Representative in Congress 05,7,C,7
+1,Connecticut 01,State Senator 01,8,S,8
+2,Connecticut 02,State Senator 02,9,S,10
+3,Connecticut 03,State Senator 03,10,S,11
+4,Connecticut 04,State Senator 04,11,S,12
+5,Connecticut 05,State Senator 05,12,S,13
+6,Connecticut 06,State Senator 06,13,S,14
+7,Connecticut 07,State Senator 07,14,S,15
+8,Connecticut 08,State Senator 08,15,S,16
+9,Connecticut 09,State Senator 09,16,S,17
+10,Connecticut 10,State Senator 10,17,S,18
+11,Connecticut 11,State Senator 11,18,S,200
+12,Connecticut 12,State Senator 12,19,S,20
+13,Connecticut 13,State Senator 13,20,S,21
+14,Connecticut 14,State Senator 14,21,S,22
+15,Connecticut 15,State Senator 15,22,S,23
+16,Connecticut 16,State Senator 16,23,S,24
+17,Connecticut 17,State Senator 17,24,S,25
+18,Connecticut 18,State Senator 18,25,S,26
+19,Connecticut 19,State Senator 19,26,S,27
+20,Connecticut 20,State Senator 20,27,S,28
+21,Connecticut 21,State Senator 21,28,S,29
+22,Connecticut 22,State Senator 22,29,S,30
+23,Connecticut 23,State Senator 23,30,S,31
+24,Connecticut 24,State Senator 24,31,S,32
+25,Connecticut 25,State Senator 25,32,S,33
+26,Connecticut 26,State Senator 26,33,S,34
+27,Connecticut 27,State Senator 27,34,S,35
+28,Connecticut 28,State Senator 28,35,S,36
+29,Connecticut 29,State Senator 29,36,S,37
+30,Connecticut 30,State Senator 30,37,S,38
+31,Connecticut 31,State Senator 31,38,S,39
+32,Connecticut 32,State Senator 32,39,S,40
+33,Connecticut 33,State Senator 33,40,S,41
+34,Connecticut 34,State Senator 34,41,S,42
+35,Connecticut 35,State Senator 35,42,S,43
+36,Connecticut 36,State Senator 36,43,S,44
+1,Connecticut 01,State Representative 01,44,A,45
+2,Connecticut 02,State Representative 02,45,A,46
+3,Connecticut 03,State Representative 03,46,A,47
+4,Connecticut 04,State Representative 04,47,A,48
+5,Connecticut 05,State Representative 05,48,A,49
+6,Connecticut 06,State Representative 06,49,A,50
+7,Connecticut 07,State Representative 07,50,A,51
+8,Connecticut 08,State Representative 08,51,A,52
+9,Connecticut 09,State Representative 09,52,A,53
+10,Connecticut 10,State Representative 10,53,A,55
+11,Connecticut 11,State Representative 11,54,A,56
+12,Connecticut 12,State Representative 12,55,A,57
+13,Connecticut 13,State Representative 13,56,A,58
+14,Connecticut 14,State Representative 14,57,A,59
+15,Connecticut 15,State Representative 15,58,A,60
+16,Connecticut 16,State Representative 16,59,A,61
+17,Connecticut 17,State Representative 17,60,A,62
+18,Connecticut 18,State Representative 18,61,A,63
+19,Connecticut 19,State Representative 19,62,A,64
+20,Connecticut 20,State Representative 20,63,A,65
+21,Connecticut 21,State Representative 21,64,A,66
+22,Connecticut 22,State Representative 22,65,A,67
+23,Connecticut 23,State Representative 23,66,A,68
+24,Connecticut 24,State Representative 24,67,A,69
+25,Connecticut 25,State Representative 25,68,A,70
+26,Connecticut 26,State Representative 26,69,A,71
+27,Connecticut 27,State Representative 27,70,A,72
+28,Connecticut 28,State Representative 28,71,A,73
+29,Connecticut 29,State Representative 29,72,A,74
+30,Connecticut 30,State Representative 30,73,A,75
+31,Connecticut 31,State Representative 31,74,A,76
+32,Connecticut 32,State Representative 32,75,A,77
+33,Connecticut 33,State Representative 33,76,A,78
+34,Connecticut 34,State Representative 34,77,A,79
+35,Connecticut 35,State Representative 35,78,A,80
+36,Connecticut 36,State Representative 36,79,A,81
+37,Connecticut 37,State Representative 37,80,A,82
+38,Connecticut 38,State Representative 38,81,A,85
+39,Connecticut 39,State Representative 39,82,A,86
+40,Connecticut 40,State Representative 40,83,A,87
+41,Connecticut 41,State Representative 41,84,A,88
+42,Connecticut 42,State Representative 42,85,A,89
+43,Connecticut 43,State Representative 43,86,A,90
+44,Connecticut 44,State Representative 44,87,A,91
+45,Connecticut 45,State Representative 45,88,A,92
+46,Connecticut 46,State Representative 46,89,A,93
+47,Connecticut 47,State Representative 47,90,A,94
+48,Connecticut 48,State Representative 48,91,A,95
+49,Connecticut 49,State Representative 49,92,A,96
+50,Connecticut 50,State Representative 50,93,A,97
+51,Connecticut 51,State Representative 51,94,A,98
+52,Connecticut 52,State Representative 52,95,A,99
+53,Connecticut 53,State Representative 53,96,A,100
+54,Connecticut 54,State Representative 54,97,A,101
+55,Connecticut 55,State Representative 55,98,A,102
+56,Connecticut 56,State Representative 56,99,A,103
+57,Connecticut 57,State Representative 57,100,A,104
+58,Connecticut 58,State Representative 58,101,A,105
+59,Connecticut 59,State Representative 59,102,A,106
+60,Connecticut 60,State Representative 60,103,A,107
+61,Connecticut 61,State Representative 61,104,A,108
+62,Connecticut 62,State Representative 62,105,A,109
+63,Connecticut 63,State Representative 63,106,A,110
+64,Connecticut 64,State Representative 64,107,A,111
+65,Connecticut 65,State Representative 65,108,A,112
+66,Connecticut 66,State Representative 66,109,A,113
+67,Connecticut 67,State Representative 67,110,A,114
+68,Connecticut 68,State Representative 68,111,A,115
+69,Connecticut 69,State Representative 69,112,A,116
+70,Connecticut 70,State Representative 70,113,A,117
+71,Connecticut 71,State Representative 71,114,A,118
+72,Connecticut 72,State Representative 72,115,A,119
+73,Connecticut 73,State Representative 73,116,A,120
+74,Connecticut 74,State Representative 74,117,A,121
+75,Connecticut 75,State Representative 75,118,A,122
+76,Connecticut 76,State Representative 76,119,A,123
+77,Connecticut 77,State Representative 77,120,A,124
+78,Connecticut 78,State Representative 78,121,A,125
+79,Connecticut 79,State Representative 79,122,A,126
+80,Connecticut 80,State Representative 80,123,A,127
+81,Connecticut 81,State Representative 81,124,A,128
+82,Connecticut 82,State Representative 82,125,A,129
+83,Connecticut 83,State Representative 83,126,A,130
+84,Connecticut 84,State Representative 84,127,A,131
+85,Connecticut 85,State Representative 85,128,A,132
+86,Connecticut 86,State Representative 86,129,A,133
+87,Connecticut 87,State Representative 87,130,A,134
+88,Connecticut 88,State Representative 88,131,A,135
+89,Connecticut 89,State Representative 89,132,A,136
+90,Connecticut 90,State Representative 90,133,A,137
+90,Connecticut 90,State Representative To Fill Vacancy 90,134,A,404
+91,Connecticut 91,State Representative 91,135,A,138
+92,Connecticut 92,State Representative 92,136,A,139
+93,Connecticut 93,State Representative 93,137,A,140
+94,Connecticut 94,State Representative 94,138,A,141
+95,Connecticut 95,State Representative 95,139,A,142
+96,Connecticut 96,State Representative 96,140,A,143
+97,Connecticut 97,State Representative 97,141,A,144
+98,Connecticut 98,State Representative 98,142,A,145
+99,Connecticut 99,State Representative 99,143,A,146
+100,Connecticut 100,State Representative 100,144,A,147
+101,Connecticut 101,State Representative 101,145,A,148
+102,Connecticut 102,State Representative 102,146,A,149
+103,Connecticut 103,State Representative 103,147,A,150
+104,Connecticut 104,State Representative 104,148,A,151
+105,Connecticut 105,State Representative 105,149,A,152
+106,Connecticut 106,State Representative 106,150,A,153
+107,Connecticut 107,State Representative 107,151,A,154
+108,Connecticut 108,State Representative 108,152,A,155
+109,Connecticut 109,State Representative 109,153,A,156
+110,Connecticut 110,State Representative 110,154,A,157
+111,Connecticut 111,State Representative 111,155,A,158
+112,Connecticut 112,State Representative 112,156,A,159
+113,Connecticut 113,State Representative 113,157,A,160
+114,Connecticut 114,State Representative 114,158,A,161
+115,Connecticut 115,State Representative 115,159,A,162
+116,Connecticut 116,State Representative 116,160,A,163
+117,Connecticut 117,State Representative 117,161,A,164
+118,Connecticut 118,State Representative 118,162,A,165
+119,Connecticut 119,State Representative 119,163,A,166
+120,Connecticut 120,State Representative 120,164,A,167
+121,Connecticut 121,State Representative 121,165,A,168
+122,Connecticut 122,State Representative 122,166,A,169
+123,Connecticut 123,State Representative 123,167,A,170
+124,Connecticut 124,State Representative 124,168,A,171
+125,Connecticut 125,State Representative 125,169,A,172
+126,Connecticut 126,State Representative 126,170,A,173
+127,Connecticut 127,State Representative 127,171,A,174
+128,Connecticut 128,State Representative 128,172,A,175
+129,Connecticut 129,State Representative 129,173,A,176
+130,Connecticut 130,State Representative 130,174,A,177
+131,Connecticut 131,State Representative 131,175,A,178
+132,Connecticut 132,State Representative 132,176,A,179
+133,Connecticut 133,State Representative 133,177,A,180
+134,Connecticut 134,State Representative 134,178,A,181
+135,Connecticut 135,State Representative 135,179,A,182
+136,Connecticut 136,State Representative 136,180,A,183
+137,Connecticut 137,State Representative 137,181,A,184
+138,Connecticut 138,State Representative 138,182,A,185
+139,Connecticut 139,State Representative 139,183,A,186
+140,Connecticut 140,State Representative 140,184,A,187
+141,Connecticut 141,State Representative 141,185,A,188
+142,Connecticut 142,State Representative 142,186,A,189
+143,Connecticut 143,State Representative 143,187,A,190
+144,Connecticut 144,State Representative 144,188,A,191
+145,Connecticut 145,State Representative 145,189,A,192
+146,Connecticut 146,State Representative 146,190,A,193
+147,Connecticut 147,State Representative 147,191,A,194
+148,Connecticut 148,State Representative 148,192,A,195
+149,Connecticut 149,State Representative 149,193,A,196
+150,Connecticut 150,State Representative 150,194,A,197
+151,Connecticut 151,State Representative 151,195,A,198
+0,,Registrar of Voters - Andover,196,SM,280
+0,,Registrar of Voters - Ansonia,197,SM,281
+0,,Registrar of Voters - Ashford,198,SM,282
+0,,Registrar of Voters - Avon,199,SM,283
+0,,Registrar of Voters - Barkhamsted,200,SM,284
+0,,Registrar of Voters - Beacon Falls,201,SM,285
+0,,Registrar of Voters - Berlin,202,SM,286
+0,,Registrar of Voters - Bethel,203,SM,403
+0,,Registrar of Voters - Bethlehem,204,SM,287
+0,,Registrar of Voters - Bloomfield,205,SM,288
+0,,Registrar of Voters - Bolton,206,SM,290
+0,,Registrar of Voters - Branford,207,SM,291
+0,,Registrar of Voters - Bridgeport,208,SM,292
+0,,Registrar of Voters - Bristol,209,SM,293
+0,,Registrar of Voters - Brookfield,210,SM,294
+0,,Registrar of Voters - Brooklyn,211,SM,295
+0,,Registrar of Voters - Canterbury,212,SM,296
+0,,Registrar of Voters - Canton,213,SM,209
+0,,Registrar of Voters - Chaplin,214,SM,297
+0,,Registrar of Voters - Cheshire,215,SM,298
+0,,Registrar of Voters - Clinton,216,SM,299
+0,,Registrar of Voters - Colchester,217,SM,300
+0,,Registrar of Voters - Colebrook,218,SM,301
+0,,Registrar of Voters - Columbia,219,SM,302
+0,,Registrar of Voters - Cornwall,220,SM,303
+0,,Registrar of Voters - Coventry,221,SM,304
+0,,Registrar of Voters - Cromwell,222,SM,305
+0,,Registrar of Voters - Danbury,223,SM,306
+0,,Registrar of Voters - Darien,224,SM,263
+0,,Registrar of Voters - Deep River,225,SM,307
+0,,Registrar of Voters - Derby,226,SM,262
+0,,Registrar of Voters - Durham,227,SM,308
+0,,Registrar of Voters - East Granby,228,SM,256
+0,,Registrar of Voters - East Haddam,229,SM,309
+0,,Registrar of Voters - East Hampton,230,SM,310
+0,,Registrar of Voters - East Hartford,231,SM,257
+0,,Registrar of Voters - East Haven,232,SM,311
+0,,Registrar of Voters - Easton,233,SM,312
+0,,Registrar of Voters - Enfield,234,SM,313
+0,,Registrar of Voters - Essex,235,SM,314
+0,,Registrar of Voters - Fairfield,236,SM,315
+0,,Registrar of Voters - Farmington,237,SM,240
+0,,Registrar of Voters - Franklin,238,SM,316
+0,,Registrar of Voters - Glastonbury,239,SM,243
+0,,Registrar of Voters - Granby,240,SM,317
+0,,Registrar of Voters - Greenwich,241,SM,318
+0,,Registrar of Voters - Groton,242,SM,320
+0,,Registrar of Voters - Haddam,243,SM,321
+0,,Registrar of Voters - Hampton,244,SM,322
+0,,Registrar of Voters - Hartford,245,SM,323
+0,,Registrar of Voters - Hartland,246,SM,324
+0,,Registrar of Voters - Harwinton,247,SM,325
+0,,Registrar of Voters - Hebron,248,SM,326
+0,,Registrar of Voters - Kent,249,SM,327
+0,,Registrar of Voters - Killingly,250,SM,328
+0,,Registrar of Voters - Killingworth,251,SM,329
+0,,Registrar of Voters - Ledyard,252,SM,330
+0,,Registrar of Voters - Lisbon,253,SM,331
+0,,Registrar of Voters - Griswold,254,SM,319
+0,,Registrar of Voters - Litchfield,255,SM,332
+0,,Registrar of Voters - Lyme,256,SM,333
+0,,Registrar of Voters - Madison,257,SM,334
+0,,Registrar of Voters - Manchester,258,SM,335
+0,,Registrar of Voters - Mansfield,259,SM,249
+0,,Registrar of Voters - Middletown,260,SM,338
+0,,Registrar of Voters - Milford,261,SM,339
+0,,Registrar of Voters - Monroe,262,SM,340
+0,,Registrar of Voters - Montville,263,SM,341
+0,,Registrar of Voters - Morris,264,SM,342
+0,,Registrar of Voters - Naugatuck,265,SM,343
+0,,Registrar of Voters - New Britain,266,SM,236
+0,,Registrar of Voters - New Canaan,267,SM,344
+0,,Registrar of Voters - New Fairfield,268,SM,345
+0,,Registrar of Voters - New Hartford,269,SM,346
+0,,Registrar of Voters - New Haven,270,SM,347
+0,,Registrar of Voters - Newtown,271,SM,349
+0,,Registrar of Voters - Norfolk,272,SM,350
+0,,Registrar of Voters - North Branford,273,SM,241
+0,,Registrar of Voters - North Canaan,274,SM,351
+0,,Registrar of Voters - North Haven,275,SM,352
+0,,Registrar of Voters - North Stonington,276,SM,353
+0,,Registrar of Voters - Norwalk,277,SM,354
+0,,Registrar of Voters - Old Lyme,278,SM,356
+0,,Registrar of Voters - Old Saybrook,279,SM,357
+0,,Registrar of Voters - Meriden,280,SM,337
+0,,Registrar of Voters - Orange,281,SM,358
+0,,Registrar of Voters - Plainfield,282,SM,359
+0,,Registrar of Voters - Norwich,283,SM,355
+0,,Registrar of Voters - Plainville,284,SM,360
+0,,Registrar of Voters - Pomfret,285,SM,212
+0,,Registrar of Voters - Preston,286,SM,361
+0,,Registrar of Voters - Prospect,287,SM,362
+0,,Registrar of Voters - Putnam,288,SM,363
+0,,Registrar of Voters - Redding,289,SM,364
+0,,Registrar of Voters - Rocky Hill,290,SM,365
+0,,Registrar of Voters - Roxbury,291,SM,366
+0,,Registrar of Voters - Salisbury,292,SM,258
+0,,Registrar of Voters - Scotland,293,SM,367
+0,,Registrar of Voters - Sharon,294,SM,368
+0,,Registrar of Voters - Shelton,295,SM,369
+0,,Registrar of Voters - Sherman,296,SM,370
+0,,Registrar of Voters - Somers,297,SM,371
+0,,Registrar of Voters - Southbury,298,SM,261
+0,,Registrar of Voters - Southington,299,SM,372
+0,,Registrar of Voters - South Windsor,300,SM,272
+0,,Registrar of Voters - Sprague,301,SM,373
+0,,Registrar of Voters - Stafford,302,SM,374
+0,,Registrar of Voters - Stamford,303,SM,375
+0,,Registrar of Voters - Sterling,304,SM,376
+0,,Registrar of Voters - Stonington,305,SM,377
+0,,Registrar of Voters - Stratford,306,SM,378
+0,,Registrar of Voters - Thompson,307,SM,379
+0,,Registrar of Voters - Tolland,308,SM,251
+0,,Registrar of Voters - Torrington,309,SM,380
+0,,Registrar of Voters - Trumbull,310,SM,381
+0,,Registrar of Voters - Union,311,SM,382
+0,,Registrar of Voters - Vernon,312,SM,383
+0,,Registrar of Voters - Voluntown,313,SM,384
+0,,Registrar of Voters - Wallingford,314,SM,385
+0,,Registrar of Voters - Warren,315,SM,386
+0,,Registrar of Voters - Washington,316,SM,387
+0,,Registrar of Voters - Waterbury,317,SM,237
+0,,Registrar of Voters - Waterford,318,SM,388
+0,,Registrar of Voters - Watertown,319,SM,389
+0,,Registrar of Voters - Westbrook,320,SM,390
+0,,Registrar of Voters - West Hartford,321,SM,242
+0,,Registrar of Voters - Weston,322,SM,392
+0,,Registrar of Voters - Wethersfield,323,SM,393
+0,,Registrar of Voters - Willington,324,SM,394
+0,,Registrar of Voters - Wilton,325,SM,396
+0,,Registrar of Voters - Winchester,326,SM,397
+0,,Registrar of Voters - West Haven,327,SM,391
+0,,Registrar of Voters - Windham,328,SM,398
+0,,Registrar of Voters - Windsor,329,SM,399
+0,,Registrar of Voters - Woodbridge,330,SM,402
+0,,Registrar of Voters - Woodbury,331,SM,401
+0,,Registrar of Voters - Woodstock,332,SM,400
+2,Connecticut 02,Judge of Probate to Fill Vacancy 02,333,PD,84
+45,Connecticut 45,Judge of Probate to Fill Vacancy 45,334,PD,83
+0,,NonPartisan Board of Education - Berlin,335,SM,423
+0,,Board of Education Full Term - Stamford,336,SM,429
+0,,Board of Education To Fill Vacancy for One Year - Stamford,337,SM,428
+0,,Board of Education - Darien,338,SM,264
+0,,Non Partisan Representative Town Meeting District I - Darien-1,339,SM,437
+0,,Non Partisan Representative Town Meeting District II - Darien-2,340,SM,436
+0,,Non Partisan Representative Town Meeting District III - Darien-3,341,SM,438
+0,,Non Partisan Representative Town Meeting District IV - Darien-4,342,SM,439
+0,,Non Partisan Representative Town Meeting District V - Darien-5,343,SM,440
+0,,Non Partisan Representative Town Meeting District VI - Darien-6,344,SM,441

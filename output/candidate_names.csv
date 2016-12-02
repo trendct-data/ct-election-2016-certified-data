@@ -1,0 +1,939 @@
+AD,CO,FN,LN,MN,NM_CAND,P_CAND,candId,CD,NM_PARTY,P_PARTY
+"145 Clapboard Ridge Rd., Greenwich, CT-06831",0,Richard,Blumenthal,,Richard Blumenthal,1,12,D,Democratic Party,250.0
+"14 Katrina Circle, Bethel, CT-06801",0,Dan,Carter,,Dan Carter,6,13,R,Republican Party,135.0
+"1887 Old Main St., East Hartford, CT-06108",0,John,Larson,B,John B. Larson,1,14,D,Democratic Party,250.0
+"181 Center St., Manchester, CT-06040",0,Matthew,Corey,M.,Matthew M. Corey,6,15,R,Republican Party,135.0
+"9 Tobias Court, Vernon, CT-06066",0,Joe,Courtney,,Joe Courtney,1,16,D,Democratic Party,250.0
+"227 Church Street, Unit #2A, New Haven, CT-06511",0,Rosa,DeLauro,L.,Rosa L. DeLauro,1,18,D,Democratic Party,250.0
+"67 Long Hill Ave., Shelton, CT-06484",0,Angel,Cadena,,Angel Cadena,6,19,R,Republican Party,135.0
+"197 Valley Rd., Cos Cob, CT-06807",0,Jim,Himes,,Jim Himes,1,20,D,Democratic Party,250.0
+"29 Ledgewood Rd., Redding, CT-06896",0,John,Shaban,,John Shaban,6,21,R,Republican Party,135.0
+"213 Preston Ter., Cheshire, CT-06410",1,Elizabeth,Esty,,Elizabeth Esty,1,22,D,Democratic Party,250.0
+"1 Brinsmade Lane, Sherman, CT-06784",2,Clay,Cope,,Clay Cope,6,23,R,Republican Party,135.0
+"99 Montowese St., Hartford, CT-06114",0,John,Fonfara,W.,John W. Fonfara,1,24,D,Democratic Party,250.0
+"79 Main St., Wethersfield, CT-06109",0,Barbara,Ruhe,,Barbara Ruhe,6,25,R,Republican Party,135.0
+"93 Indian Hill Rd., Windsor, CT-06095",0,Theresa,Tillett,,Theresa Tillett,6,26,R,Republican Party,135.0
+"77 Wintonbury Ave., Bloomfield, CT-06002",0,Eric,Coleman,D.,Eric D. Coleman,1,27,D,Democratic Party,250.0
+"33 Gorman Place, East Hartford, CT-06108",0,Timothy,Larson,D.,Timothy D. Larson,1,28,D,Democratic Party,250.0
+"48 Sele Dr., South Windsor, CT-06074",0,Carolyn,Streeter Mirek,,Carolyn Streeter Mirek,6,29,R,Republican Party,135.0
+"1109 East Middle Turnpike, Manchester, CT-06040",0,Steve,Cassano,,Steve Cassano,1,30,D,Democratic Party,250.0
+"42 Steep Hollow Drive, Glastonbury, CT-06033",0,Lorraine,Marchetti,,Lorraine Marchetti,6,31,R,Republican Party,135.0
+"1906 Chamberlain Hwy., Berlin, CT-06037",0,Charles,Paonessa,,Charles Paonessa,6,32,R,Republican Party,135.0
+"53 Whitman Dr., Granby, CT-06035",0,Annie,Hornish,,Annie Hornish,1,34,D,Democratic Party,250.0
+"16 Frew Terrace, Enfield, CT-06082",0,John,Kissel,A.,John A. Kissel,6,35,R,Republican Party,135.0
+"785 Bow Lane, Middletown, CT-06457",0,Earle,Roberts,A.,Earle V. Roberts,6,36,R,Republican Party,135.0
+"38 Thornbush Rd., Wethersfield, CT-06109",0,Paul,Doyle,R.,Paul R. Doyle,1,37,D,Democratic Party,250.0
+"17 Juniper Point Rd., Branford, CT-06405",0,Edward,Kennedy Jr.,,Edward Kennedy Jr.,1,38,D,Democratic Party,250.0
+"45 Dairy Hill Rd., Madison, CT-06443",0,Bruce,Wilson Jr.,,Bruce Wilson Jr.,6,39,R,Republican Party,135.0
+"10 LaRovera Terrace, Ansonia, CT-06401",0,George,Logan,,George Logan,6,40,R,Republican Party,135.0
+"1205 Racebrook Rd., Woodbridge, CT-06525",0,Joe,Crisco,,Joe Crisco,1,41,D,Democratic Party,250.0
+"117 River Rd., Preston, CT-06365",0,Tim,Bowles,,Tim Bowles,1,42,D,Democratic Party,250.0
+"67 Ramsdell St., Groton, CT-06340",0,Heather,Somers,,Heather Somers,6,43,R,Republican Party,135.0
+"187 Scotland Rd., Baltic, CT-06330",0,Catherine,Osten,A.,Catherine A. Osten,1,44,D,Democratic Party,250.0
+"3 Noah's Way, Baltic, CT-06330",0,Barbara,Richardson Crouch,,Barbara Richardson Crouch,6,45,R,Republican Party,135.0
+"20-A Bush Hill Drive, Niantic, CT-06357",0,Paul,Formica,M.,Paul M. Formica,6,46,R,Republican Party,135.0
+"88 Parkway South Apt. B, New London, CT-06320",0,Ryan,Henowitz,,Ryan Henowitz,1,47,D,Democratic Party,250.0
+"89 Padanaram Rd., Danbury, CT-06811",0,Kenneth,Gucker,,Kenneth Gucker,1,48,D,Democratic Party,250.0
+"47 W. Wooster St., Danbury, CT-06810",0,Michael,McLachlan,A.,Michael A. McLachlan,6,49,R,Republican Party,135.0
+"50 Toilsome Ave., Norwalk, CT-06851",0,Bob,Duff,,Bob Duff,1,50,D,Democratic Party,250.0
+"38 Pembroke Rd., Darien, CT-06820",0,Gregory,Ehlers,,Gregory Ehlers,6,51,R,Republican Party,135.0
+"230 E. Chestnut Hill Rd., Litchfield, CT-06759",0,Craig,Miner,A.,Craig A. Miner,6,52,R,Republican Party,135.0
+"16 White Swan Drive, New Milford, CT-06776",0,David,Lawson,A.,David A. Lawson,1,53,D,Democratic Party,250.0
+"24 Book Hill Woods Rd., Essex, CT-06426",0,Norm,Needleman,,Norm Needleman,1,54,D,Democratic Party,250.0
+"1110 Old Clinton Rd., Westbrook, CT-06498",0,Art,Linares,,Art Linares,6,55,R,Republican Party,135.0
+"65 Ritch Drive, Ridgefield, CT-06877",0,Sharon,Wicks Dornfeld,,Sharon Wicks Dornfeld,1,56,D,Democratic Party,250.0
+"167 Reynolds Dr., Meriden, CT-06450",0,Dante,Bartolomeo,,Dante Bartolomeo,1,59,D,Democratic Party,250.0
+"35 Lydale Place, Meriden, CT-06450",0,Len,Suzio,,Len Suzio,6,60,R,Republican Party,135.0
+"146 Connecticut Ave., West Haven, CT-06516",0,Pat,Libero,,Pat Libero,6,61,R,Republican Party,135.0
+"14 Honeysuckle Lane, Milford, CT-06461",0,Gayle,Slossberg,,Gayle Slossberg,1,62,D,Democratic Party,250.0
+"216 Old Turnpike Rd., Southington, CT-06489",0,Ryan,Rogers,P.,Ryan P. Rogers,1,63,D,Democratic Party,250.0
+"47 Elm St., Plantsville, CT-06479",0,Joe,Markley,,Joe Markley,6,64,R,Republican Party,135.0
+"240 York St., Stratford, CT-06615",0,Kevin,Kelly,C.,Kevin C. Kelly,6,65,R,Republican Party,135.0
+"44 Curtis Pl., Stratford, CT-06614",0,Prez,Palmer,,Prez Palmer,1,66,D,Democratic Party,250.0
+"49 Weber Ave., Bridgeport, CT-06610",0,Mike,Garrett,,Mike Garrett,6,68,R,Republican Party,135.0
+"215 Courtland Ave., Stamford, CT-06906",0,Gino,Bottino,C.,Gino C. Bottino,6,69,R,Republican Party,135.0
+"88 Houston Terrace, Stamford, CT-06902",0,Carlo,Leone,,Carlo Leone,1,70,D,Democratic Party,250.0
+"2607 Congress St., Fairfield, CT-06824",0,Philip,Dwyer,,Philip Dwyer,1,71,D,Democratic Party,250.0
+"80 Martingale Lane, Fairfield, CT-06824",0,Tony,Hwang,,Tony Hwang,6,72,R,Republican Party,135.0
+"7 Ipswitch Rd., Bristol, CT-06010",0,Henri,Martin,,Henri Martin,6,73,R,Republican Party,135.0
+"24 Hollyberry Rd., Bristol, CT-06010",0,Michael,Nicastro,,Michael Nicastro,1,74,D,Democratic Party,250.0
+"73 Southbury Road, Roxbury, CT-06783",0,Greg,Cava,,Greg Cava,1,75,D,Democratic Party,250.0
+"19 Taft Circle, Watertown, CT-06795",0,Robert,Kane,J.,Robert J. Kane,6,76,R,Republican Party,135.0
+"123 Meadow Rd., Riverside, CT-06878",0,L. Scott,Frantz,,L. Scott Frantz,6,77,R,Republican Party,135.0
+"10 Doverton Drive, Greenwich, CT-06831",0,John,Blankley,,John Blankley,1,78,D,Democratic Party,250.0
+"5 Wicks End Lane, Wilton, CT-06897",0,Toni,Boucher,,Toni Boucher,6,79,R,Republican Party,135.0
+"29 Hiawatha Lane, Westport, CT-06880",0,Carolanne,Curry,,Carolanne Curry,1,80,D,Democratic Party,250.0
+"59 Coventry Lane, Trumbull, CT-06611",0,Elaine,Hammers,,Elaine Hammers,6,82,R,Republican Party,135.0
+"145 Robin Rd., West Hartford, CT-06119",0,Mark,Merritt,,Mark Merritt,6,83,R,Republican Party,135.0
+"15 High Ledge Rd., Canton, CT-06019",0,Kevin,Witkos,,Kevin Witkos,6,84,R,Republican Party,135.0
+"480 Winchester Ave., New Haven, CT-06511",0,Gary,Winfield,A.,Gary A. Winfield,1,85,D,Democratic Party,250.0
+"132 Fort Hale Rd., New Haven, CT-06512",0,Martin,Looney,M.,Martin M. Looney,1,86,D,Democratic Party,250.0
+"206 Columbia Blvd., Waterbury, CT-06710",0,Joan,Hartley,A.,Joan V. Hartley,1,87,D,Democratic Party,250.0
+"497 High St., Willimantic, CT-06226",0,John,French,,John French,6,88,R,Republican Party,135.0
+"7 Sycamore Lane, North Haven, CT-06473",0,Len,Fasano,,Len Fasano,6,89,R,Republican Party,135.0
+"100 Stafford St., Stafford Springs, CT-06076",0,Tony,Guglielmo,,Tony Guglielmo,6,90,R,Republican Party,135.0
+"13 Laurel Lane, Barkhamsted, CT-06063",0,Susan,Day,L.,Susan L. Day,6,92,R,Republican Party,135.0
+"96 Lavander Rd., Barkhamsted, CT-06063",0,Karen,Martin,A.,Karen A. Martin,1,93,D,Democratic Party,250.0
+"16 Lakes Lane, Bethlehem, CT-06751",0,Anne-Marie,Mastroianni,,Anne-Marie Mastroianni,1,94,D,Democratic Party,250.0
+"93 Sunny Ridge Rd., Bethlehem, CT-06751",0,Melissa,Russell,J.,Melissa J. Russell,6,95,R,Republican Party,135.0
+"45 Hebron Rd., Bolton, CT-06043",0,James,Dwire,,James Dwire,1,96,D,Democratic Party,250.0
+"16 Pond View Rd., Bolton, CT-06043",0,Dolores,Betti,M.,Dolores M. Betti,6,97,R,Republican Party,135.0
+"99 Day St., Brooklyn, CT-06234",0,Michael,Niejadlik,L.,Michael J. Niejadlik,1,98,D,Democratic Party,250.0
+"12 Greenway Drive, Brooklyn, CT-06234",0,Lauren,Centracchio,B.,Lauren B. Centracchio,6,99,R,Republican Party,135.0
+"122 Old Colebrook Rd., Colebrook, CT-06021",0,Helen,Campbell,,Helen Campbell,6,100,R,Republican Party,135.0
+"189 Bunnell St., Colebrook, CT-06021",0,Karen,Odell,M.,Karen M. Odell,1,101,D,Democratic Party,250.0
+"47 Willowbrook Rd., Cromwell, CT-06416",0,Alice,Kelly,M.,Alice M. Kelly,1,102,D,Democratic Party,250.0
+"25 Chestnut Court, Cromwell, CT-06416",0,Bonnie,Anderson,,Bonnie Anderson,6,103,R,Republican Party,135.0
+"25 Little Brook Rd., Darien, CT-06820",0,John,Visi,J.,John J. Visi,6,104,R,Republican Party,135.0
+"57 Brookside Rd., Darien, CT-06820",0,Susan,Gray,K.,Susan K. Gray,1,105,D,Democratic Party,250.0
+"56 Alexander Rd., East Haddam, CT-06423",0,Martha,Hansen,C.,Martha C. Hansen,1,106,D,Democratic Party,250.0
+"12 Juda Lane, East Haddam, CT-06423",0,Lucy,Yacovino,,Lucy R. Yacovino,6,107,R,Republican Party,135.0
+"91 Shennecossett Pkwy., Groton, CT-06340",0,Kristen,Venditti,,Kristen Venditti,6,108,R,Republican Party,135.0
+"54 Cottage St., Groton, CT-06340",0,Paul,Duarte,,Paul Duarte,1,109,D,Democratic Party,250.0
+"132 Sherbrooke Ave., Hartford, CT-06106",0,"Giselle ""Gigi""",Feliciano,,"Giselle ""Gigi"" Feliciano",1,110,D,Democratic Party,250.0
+"63 Huntington St., Apt. 1D, Hartford, CT-06105",0,Sheila,Hall,N.,Sheila N. Hall,6,111,R,Republican Party,135.0
+"171 Butternut Lane, Kensington, CT-06037",0,Elizabeth,Tedeschi,A.,Elizabeth A. Tedeschi,6,113,R,Republican Party,135.0
+"793 Broadbridge Rd., Bridgeport, CT-06610",0,Linda,Grace,A.,Linda A. Grace,6,114,R,Republican Party,135.0
+"194 Marigold Ave., Bridgeport, CT-06606",0,Santa Ines,Ayala,,Santa Ines Ayala,1,115,D,Democratic Party,250.0
+"19 Spring St., Bristol, CT-06010",0,Kevin,McCauley,M.,Kevin C. McCauley,1,116,D,Democratic Party,250.0
+"203 Pinehurst Rd., Bristol, CT-06010",0,Sharon,Krawiecki,M.,Sharon M. Krawiecki,6,117,R,Republican Party,135.0
+"505 Brooklyn Rd., Canterbury, CT-06331",0,Joanne,Sheridan,,Joanne Sheridan,6,118,R,Republican Party,135.0
+"61 Raymond Schoolhouse Rd., Canterbury, CT-06331",0,Loreen,Hegan,,Loreen Hegan,1,119,D,Democratic Party,250.0
+"142 Town St., West Cornwall, CT-06796",0,Jayne,Ridgway,W.,Jayne W. Ridgway,1,120,D,Democratic Party,250.0
+"158 Bunker Hill Rd., West Cornwall, CT-06796",0,Cara,Weigold,Y.,Cara Y. Weigold,6,121,R,Republican Party,135.0
+"48 Woodland Drive, Easton, CT-06612",0,David,Smith,,David Smith,1,123,D,Democratic Party,250.0
+"9 Harbor View S., Essex, CT-06426",0,Lois,Ely,A.,Lois A. Ely,1,124,D,Democratic Party,250.0
+"14 West Hills Road, Ivoryton, CT-06442",0,John,Heiser,V.,John V. Heiser,6,125,R,Republican Party,135.0
+"7 Sullivan Dr., Granby, CT-06035",0,Laura,Wolfe,A.,Laura A. Wolfe,1,126,D,Democratic Party,250.0
+"23 Moose Horn Rd., West Granby, CT-06090",0,Paul,Willis,R.,Paul R. Willis,6,127,R,Republican Party,135.0
+"31 Fieldstone Lane, Higganun, CT-06441",0,Raymond,Skarsten,,Raymond Skarsten,6,128,R,Republican Party,135.0
+"101 Church Hill Rd., Haddam, CT-06438",0,Saralyn,Twomey,,Saralyn Twomey,1,129,D,Democratic Party,250.0
+"16 Town Crier Ln, Madison, CT-06443",0,William,Gowanlock,B.,William B. Gowanlock,1,130,D,Democratic Party,250.0
+"161 Beach Ave., Milford, CT-06460",0,Kerri,Rowland,,Kerri Rowland,1,132,D,Democratic Party,250.0
+"182 Forest Rd., Milford, CT-06461",0,Debra,Fellenbaum,D.,Debra D. Fellenbaum,6,133,R,Republican Party,135.0
+"82 Jerome Rd. Apt. 5-2, Uncasville, CT-06382",0,Christine,Kutz,,Christine Kutz,1,134,D,Democratic Party,250.0
+"84 Walnut St., Naugatuck, CT-06770",0,Matthew,Katra,R.,Matthew R. Katra,6,136,R,Republican Party,135.0
+"6 Culver St., Naugatuck, CT-06770",0,Louise,Sheedy,L.,Louise L. Sheedy,1,137,D,Democratic Party,250.0
+"23 Jefferson Circle, Clinton, CT-06413",0,Peter,Giannotti,,Peter Giannotti,6,138,R,Republican Party,135.0
+"33 High St., Clinton, CT-06413",0,June,Hansen,,June Hansen,1,139,D,Democratic Party,250.0
+"16 Jeanette St., Danbury, CT-06811",0,Margaret,Gallo,F.,Margaret F. Gallo,1,140,D,Democratic Party,250.0
+"7 Prince Street, Danbury, CT-06810",0,Mary Ann,Doran,,Mary Ann Doran,6,141,R,Republican Party,135.0
+"15 Clancy St., East Haven, CT-06512",0,Donna,Norman,C.,Donna C. Norman,6,142,R,Republican Party,135.0
+"20 Jardin Dr., New Haven, CT-06513",0,Albert,Fucci,,Albert Fucci,1,143,D,Democratic Party,250.0
+"14 Cartier Rd., Enfield, CT-06082",0,Lewis,Fiore,,Lewis Fiore,1,144,D,Democratic Party,250.0
+"240 Abbe Rd., Enfield, CT-06082",0,David,Wawer,J.,David J. Wawer,6,145,R,Republican Party,135.0
+"276 Hope Valley Rd., Amston, CT-06231",0,John,Richmond,F.,John F. Richmond,6,146,R,Republican Party,135.0
+"105 Scarboro Rd., Hebron, CT-06248",0,Elizabeth,Fitzgerald,,Elizabeth Fitzgerald,1,147,D,Democratic Party,250.0
+"88 Brittany Farms Rd. J1, New Britain, CT-06053",0,Peter,Gostin,J.,Peter J. Gostin,6,148,R,Republican Party,135.0
+"598 Main Street, New Hartford, CT-06057",0,Daria,Hart,K.,Daria K. Hart,1,150,D,Democratic Party,250.0
+"45 Troutwood Dr., New Hartford, CT-06057",0,Lila,Tuxbury,,Lila Tuxbury,6,151,R,Republican Party,135.0
+"246 Reeds Gap Rd., #1A, Northford, CT-06472",0,Paulette,Hart,C,Paulette C. Hart,6,152,R,Republican Party,135.0
+"7 Skylark Drive, Northford, CT-06472",0,Maryann,Manzi,,Maryann Manzi,1,153,D,Democratic Party,250.0
+"733 Pendleton Hill Rd., North Stonington, CT-06359",0,Gladys,Chase,I,Gladys I. Chase,6,154,R,Republican Party,135.0
+"26 Hangman Hill Rd., North Stonington, CT-06359",0,Joan,Kepler,L.,Joan L. Kepler,1,155,D,Democratic Party,250.0
+"224 West Norwalk Rd., Norwalk, CT-06850",0,Stuart,"Wells, III",W,Stuart W. Wells III,1,156,D,Democratic Party,250.0
+"58 Spring Hill Ave,, Norwalk, CT-06850",0,Karen,Doyle Lyons,,Karen Doyle Lyons,6,157,R,Republican Party,135.0
+"3 Dibble Rd., Old Saybrook, CT-06475",0,Joan,Strickland,B,Joan B. Strickland,1,158,D,Democratic Party,250.0
+"23 Gates Rd., Old Saybrook, CT-06475",0,Joan,Broadhurst,C.,Joan C. Broadhurst,6,159,R,Republican Party,135.0
+"23 Major Dr., Plainfield, CT-06374",0,Irene,Bessette,A.,Irene A. Bessette,1,160,D,Democratic Party,250.0
+"70 Jackson Rd., Central Village, CT-06332",0,Sonia,Chapman,S.,Sonia S. Chapman,6,161,R,Republican Party,135.0
+"68 Watson Rd., Preston, CT-06365",0,Lennie,Spencer,W.,Lennie W. Spencer,6,162,R,Republican Party,135.0
+"163-1 Middle Rd., Preston, CT-06365",0,Cheryl,Roberts,,Cheryl Roberts,1,163,D,Democratic Party,250.0
+"75 Garfield Rd., Rocky Hill, CT-06067",0,Janet,Viggiano,W.,Janet W. Viggiano,1,164,D,Democratic Party,250.0
+"83 Wynding Brook Dr., Rocky Hill, CT-06067",0,Geraldine,Yoo,,Geraldine Yoo,6,165,R,Republican Party,135.0
+"144 East Street, Sharon, CT-06069",0,Barbara,Coords,S.,Barbara S. Coords,6,166,R,Republican Party,135.0
+"350 Deming St., South Windsor, CT-06074",0,Sue,Larsen,W.,Sue W. Larsen,1,168,D,Democratic Party,250.0
+"301 Sandstone Dr., South Windsor, CT-06074",0,Sue,Burnham,,Sue Burnham,6,169,R,Republican Party,135.0
+"275 Luanne Road, Stratford, CT-06615",0,Richard,Marcone,T.,Richard T. Marcone,1,170,D,Democratic Party,250.0
+"160 Timber Ridge Rd., Stratford, CT-06614",0,Louis,DeCilio,A.,Louis A. DeCilio,6,171,R,Republican Party,135.0
+"100 Scarborough Street, Hartford, CT-06105",0,Ken,Lerman,,Ken Lerman,6,172,R,Republican Party,135.0
+"169 North Beacon St., Hartford, CT-06105",0,Matthew,Ritter,,Matthew Ritter,1,173,D,Democratic Party,250.0
+"248 Franklin Ave., Hartford, CT-06116",0,Angel,Arce,,Angel Arce,1,174,D,Democratic Party,250.0
+"255 Asylum Street, #29, Hartford, CT-06103",0,A.,Carter,Lloyd,A. Lloyd Carter,6,175,R,Republican Party,135.0
+"483 Broadview Terrace, Hartford, CT-06106",0,Russell,Williams,,Russell Williams,6,176,R,Republican Party,135.0
+"141 Douglas St., Hartford, CT-06114",0,Edwin,Vargas,,Edwin Vargas,1,177,D,Democratic Party,250.0
+"93 Rockledge Drive, South Windsor, CT-06074",0,Saud,Anwar,,Saud Anwar,1,178,D,Democratic Party,250.0
+"130 Felt Rd., South Windsor, CT-06074",0,Tom,Delnicki,,Tom Delnicki,6,179,R,Republican Party,135.0
+"5 Warbler Circle, Bloomfield, CT-06002",0,David,Baram,,David Baram,1,180,D,Democratic Party,250.0
+"25 Sherwood Rd., West Hartford, CT-06117",0,Andrew,Fleischmann,M.,Andrew M. Fleischmann,1,182,D,Democratic Party,250.0
+"175 Brewster Road, West Hartford, CT-06117",0,Robert,Levine,,Robert Levine,6,183,R,Republican Party,135.0
+"172 Kensington Ave., New Britain, CT-06051",0,James,Sanders,,James Sanders Jr.,6,184,R,Republican Party,135.0
+"208 South Mountain Dr., New Britain, CT-06052",0,Rick,Lopes,,Rick Lopes,1,185,D,Democratic Party,250.0
+"150 Belridge Rd., New Britain, CT-06053",0,Peter,Tercyak,A.,Peter A. Tercyak,1,186,D,Democratic Party,250.0
+"60 Brown Street, New Britain, CT-06053",0,Desiree,Agosto,,Desiree Agosto,6,187,R,Republican Party,135.0
+"29 Sovereign Ridge, Cromwell, CT-06416",0,Christie,Carpino,M.,Christie M. Carpino,6,188,R,Republican Party,135.0
+"16 Pleasant Street, Cromwell, CT-06416",0,Myron,Johnson,P.,Myron P. Johnson,1,189,D,Democratic Party,250.0
+"121 Plymouth Road, Westbrook, CT-06498",0,Jesse,MacLachlan,,Jesse MacLachlan,6,190,R,Republican Party,135.0
+"19 Stony Point Rd., Clinton, CT-06413",0,Ellen,Dahlgren,,Ellen Dahlgren,1,191,D,Democratic Party,250.0
+"584 F. Shennecossett Rd., Groton, CT-06340",0,Aundre,Bumgardner,,Aundre Bumgardner,6,192,R,Republican Party,135.0
+"95 Corey Rd., Groton, CT-06340",0,Joe,de la Cruz,,Joe de la Cruz,1,193,D,Democratic Party,250.0
+"15 Luzon Avenue, Dayville, CT-06241",0,Christine,Randall,Rosati,Christine Rosati Randall,1,195,D,Democratic Party,250.0
+"125 N. Bear Hill Road, Chaplin, CT-06235",0,Doug,Dubitsky,,Doug Dubitsky,6,196,R,Republican Party,135.0
+"202 Station Road, Hampton, CT-06247",0,Kate,Donnelly,,Kate Donnelly,1,197,D,Democratic Party,250.0
+"179 Tuckie Rd., North Windham, CT-06256",0,Tony,Fantoli,,Tony Fantoli,6,198,R,Republican Party,135.0
+"120 Bolivia St., Willimantic, CT-06226",0,Susan,Johnson,,Susan Johnson,1,199,D,Democratic Party,250.0
+"49 Brickyard Rd., Woodstock, CT-06281",0,Nora,Valentine,,Nora Valentine,6,200,R,Republican Party,135.0
+"22 Travis St., Torrington, CT-06790",0,Edward,Wilmot,C.,Edward C. Wilmot,6,201,R,Republican Party,135.0
+"398 Pomfret St., Pomfret, CT-06258",0,Pat,Boyd,,Pat Boyd,1,202,D,Democratic Party,250.0
+"267 Windtree, Torrington, CT-06790",0,John,Ciesco,C.,John C. Ciesco,1,203,D,Democratic Party,250.0
+"5241 Main Street, Trumbull, CT-06611",0,Laurel,Anderson,,Laurel Anderson,1,204,D,Democratic Party,250.0
+"6 Woodfield Dr., Trumbull, CT-06611",0,William,Holden,S.,William S. Holden,6,205,R,Republican Party,135.0
+"621 Buckley Hwy, Union, CT-06076",0,Heidi,Lambert,,Heidi Lambert,6,206,R,Republican Party,135.0
+"149 Spoonville Rd., East Granby, CT-06026",0,Michael,Malloy,S.,Michael S. Malloy,1,207,D,Democratic Party,250.0
+"11 Seymour Rd., East Granby, CT-06026",0,Tami,Zawistowski,,Tami Zawistowski,6,209,R,Republican Party,135.0
+"142 Congdon Rd, Voluntown, CT-06384",0,Diana,Ingraham,M,Diana M. Ingraham,1,210,D,Democratic Party,250.0
+"27 E. Main St., Canaan, CT-06039",0,Brian,Ohler,M.,Brian M. Ohler,6,211,R,Republican Party,135.0
+"3 Farnam Road, Salisbury, CT-06039",0,William,Riiska,O.,William O. Riiska,1,212,D,Democratic Party,250.0
+"1001 Ekonk Hill Rd., Voluntown, CT-06384",0,Deborah,Fletcher,L.,Deborah L. Fletcher,6,213,R,Republican Party,135.0
+"39 Laurel Lake East, Weston, CT-06883",0,Theresa,Brasco,,Theresa Brasco,6,215,R,Republican Party,135.0
+"83 Lyons Plains Rd., Weston, CT-06883",0,Mike,Zegers,,Mike Zegers,1,216,D,Democratic Party,250.0
+"499 Charles Street, Torrington, CT-06790",0,Michelle,Cook,L.,Michelle L. Cook,1,217,D,Democratic Party,250.0
+"33 Hewitt St., Willimantic, CT-06226",0,Paulann,Lescoe,,Paulann Lescoe,1,218,D,Democratic Party,250.0
+"9 Laurel Ln, Windham, CT-06280",0,Kimberly,Desaulniers,,Kimberly Desaulniers,6,220,R,Republican Party,135.0
+"92 Malvern Hill Rd., Watertown, CT-06795",0,Eric,Berthel,C.,Eric C. Berthel,6,221,R,Republican Party,135.0
+"425 Amity Rd., Woodbridge, CT-06525",0,Anna,Dickerson,,Anna Dickerson,6,222,R,Republican Party,135.0
+"14 Seymour Road, Woodbridge, CT-06525",0,Elias,Alexiades,A.,Elias A. Alexiades,1,224,D,Democratic Party,250.0
+"1924 Perkins Street, Bristol, CT-06010",0,Whit,Betts,,Whit Betts,6,226,R,Republican Party,135.0
+"221 Newell Ave, Bristol, CT-06010",0,Krystal,Myers,,Krystal Myers,1,227,D,Democratic Party,250.0
+"245 Hoop Pole Hill Rd., Woodbury, CT-06798",0,Judith,Henderson,W.,Judith  W. Henderson,6,228,R,Republican Party,135.0
+"32 Woodland St., Bristol, CT-06010",0,Christopher,Ziogas,,Christopher Ziogas,1,229,D,Democratic Party,250.0
+"13 Washington Rd., Woodbury, CT-06798",0,Anne,Cushman Schwaikert,,Anne Cushman Schwaikert,1,230,D,Democratic Party,250.0
+"9 Chimney Crest Ln., Bristol, CT-06010",0,Pete,Del Mastro,,Pete Del Mastro,6,231,R,Republican Party,135.0
+"19 Barlow Cemetery Rd., Woodstock Valley, CT-06282",0,Suzanne,Woodward,,Suzanne Woodward,1,232,D,Democratic Party,250.0
+"849 Glacier Way, Southington, CT-06489",0,David,Zoni,,David Zoni,1,233,D,Democratic Party,250.0
+"178 West Center St., Southington, CT-06489",0,John,Fusco,,John Fusco,6,234,R,Republican Party,135.0
+"101 Beaver Dam Rd., Woodstock Valley, CT-06282",0,Cheryl,Leveille,,Cheryl Leveille,6,235,R,Republican Party,135.0
+"230 Westfort Dr., Meriden, CT-06451",0,Catherine,Abercrombie,,Catherine Abercrombie,1,236,D,Democratic Party,250.0
+"410 Parker Ave South, Meriden, CT-06450",0,Joseph,Vollano,,Joseph Vollano,6,237,R,Republican Party,135.0
+"369 Coe Ave #14, East Haven, CT-06512",0,James,Albis,M.,James M. Albis,1,238,D,Democratic Party,250.0
+"2 Copps Hill Rd., Ridgefield, CT-06877",0,John,Frey,H.,John H. Frey,6,240,R,Republican Party,135.0
+"17 Olcott Way, Ridgefield, CT-06877",0,Joe,Dowdell,,Joe Dowdell,1,241,D,Democratic Party,250.0
+"215 Beach St., West Haven, CT-06516",0,Stephen,Dargan,D.,Stephen D. Dargan,1,242,D,Democratic Party,250.0
+"270 Richmond Ave., West Haven, CT-06516",0,Bart,Chadderton,,Bart Chadderton,6,243,R,Republican Party,135.0
+"25 Deerfield Ave., Milford, CT-06460",0,Ben,Gettinger,,Ben Gettinger,1,244,D,Democratic Party,250.0
+"165 Simsbury Rd., Avon, CT-06001",0,Kerry,Ladouceur,B.,Kerry B. Ladouceur,6,245,R,Republican Party,135.0
+"35 Point Lookout, Milford, CT-06460",0,Pam,Staneski,,Pam Staneski,6,246,R,Republican Party,135.0
+"55 Castle Drive, Stratford, CT-06614",0,Laura,Hoydick,R.,Laura R. Hoydick,6,247,R,Republican Party,135.0
+"602 Nichols Avenue, Stratford, CT-06614",0,Frederick,Streets,,Frederick Streets,1,248,D,Democratic Party,250.0
+"2360 Huntington Tpke., Trumbull, CT-06611",0,Lino,Costantini,,Lino Costantini,1,249,D,Democratic Party,250.0
+"52 Stemway Rd., Trumbull, CT-06611",0,David,Rutigliano,,David Rutigliano,6,250,R,Republican Party,135.0
+"13 Day Road, Avon, CT-06001",0,Ann,Clark,,Ann Clark,1,251,D,Democratic Party,250.0
+"63 Grassy Plain St., Bethel, CT-06801",0,Timothy,Beeble,,Timothy Beeble,6,253,R,Republican Party,135.0
+"730 Palisade Ave H-1, Bridgeport, CT-06610",0,Jose,Quiroga,L.,Jose L. Quiroga,6,254,R,Republican Party,135.0
+"25 Walnut Hill Rd., Bethel, CT-06801",0,Nancy,Ryan,J.,Nancy J. Ryan,1,255,D,Democratic Party,250.0
+"6 Marguerite Ave., Bloomfield, CT-06002",0,Anne,Wall,E.,Anne E. Wall,1,256,D,Democratic Party,250.0
+"43 Cliffmount Dr., Bloomfield, CT-06002",0,Barbara,Reisner,L.,Barbara L. Reisner,6,257,R,Republican Party,135.0
+"20 Riverside Dr., Branford, CT-06405",0,Marion,Burkard,E.,Marion E. Burkard,6,259,R,Republican Party,135.0
+"147 Fairview Ave., Bridgeport, CT-06606",0,Anthony,Pizighelli,,Anthony Pizighelli,6,260,R,Republican Party,135.0
+"74 Seaver Circle, Bridgeport, CT-06606",0,Ruben,Coriano,A.,Ruben A. Coriano,6,261,R,Republican Party,135.0
+"556 Savoy St., Bridgeport, CT-06606",0,John,Hennessy,F.,John F. Hennessy,1,262,D,Democratic Party,250.0
+"195 French St., Bridgeport, CT-06606",0,Christopher,Rosario,,Christopher Rosario,1,263,D,Democratic Party,250.0
+"144 Coleman St., Bridgeport, CT-06604",0,Ethan,Book,,Ethan Book,6,264,R,Republican Party,135.0
+"122 Red Hill Rd., Branford, CT-06405",0,Daniel,Hally,J.,Daniel J. Hally,1,265,D,Democratic Party,250.0
+"138 Fayerweather Terr., Bridgeport, CT-06605",0,Steven,Stafstrom,,Steven Stafstrom,1,266,D,Democratic Party,250.0
+"37 Wallingford Rd., Cheshire, CT-06410",0,Thomas,Smith,,Thomas Smith,1,267,D,Democratic Party,250.0
+"25 Cartright St. 1-D, Bridgeport, CT-06604",0,Peter,Perillo,,Peter Perillo,6,268,R,Republican Party,135.0
+"133 Spring St., Cheshire, CT-06410",0,Susan,Pappas,D.,Susan D. Pappas,6,269,R,Republican Party,135.0
+"991 State St., Bridgeport, CT-06605",0,Ezequiel,Santiago,,Ezequiel Santiago,1,270,D,Democratic Party,250.0
+"1124 Flanders Rd., Coventry, CT-06238",0,Pamela,Sewell,S.,Pamela S. Sewell,6,271,R,Republican Party,135.0
+"586 Clinton Avenue, Bridgeport, CT-06605",0,Melissa,Borres,,Melissa Borres,6,272,R,Republican Party,135.0
+"348 Lewis Hill Rd., Coventry, CT-06238",0,Marjorie,Roach,J.,Marjorie L. Roach,1,273,D,Democratic Party,250.0
+"213 Farist Rd., Fairfield, CT-06825",0,Brenda,Kupchick,,Brenda Kupchick,6,274,R,Republican Party,135.0
+"60 Guire Rd., Durham, CT-06422",0,Karen,Cheyney,,Karen Cheyney,1,275,D,Democratic Party,250.0
+"321 Puritan Rd., Fairfield, CT-06824",0,Dru,Georgiadis,,Dru Georgiadis,1,276,D,Democratic Party,250.0
+"72 Anna Terrace, Durham, CT-06422",0,Pamela,Lucashu,M.,Pamela M. Lucashu,6,277,R,Republican Party,135.0
+"1625 Melville Ave., Fairfield, CT-06825",0,Cristin,Vahey,McCarthy,Cristin McCarthy Vahey,1,278,D,Democratic Party,250.0
+"75 StoneRidge Way, Fairfield, CT-06824",0,Raymond,Neuberger,J.,Raymond J. Neuberger,6,279,R,Republican Party,135.0
+"85 Brett Lane, Fairfield, CT-06824",0,Laura,Devlin,M.,Laura M. Devlin,6,280,R,Republican Party,135.0
+"14 Lull Water Road, Trumbull, CT-06611",0,Frederick,Garrity,,Frederick Garrity Jr.,1,281,D,Democratic Party,250.0
+"1 Bushy Ridge Rd., Westport, CT-06880",0,Jonathan,Steinberg,,Jonathan Steinberg,1,282,D,Democratic Party,250.0
+"6 Wilcox Lane, Westport, CT-06880",0,Catherine,Walsh,A.,Catherine A. Walsh,6,283,R,Republican Party,135.0
+"1 Old Road, East Granby, CT-06026",0,Carol,Carrara,,Carol Carrara,6,284,R,Republican Party,135.0
+"5 Surrey Dr., East Granby, CT-06026",0,Judith,Geldhauser,,Judith Geldhauser,1,285,D,Democratic Party,250.0
+"11 Phillips Farm Rd., East Hartford, CT-06118",0,Stephen,Watkins,I.,Stephen I. Watkins,1,286,D,Democratic Party,250.0
+"785 Burnham St., East Hartford, CT-06108",0,Mary,Mourey,J.,Mary J. Mourey,6,287,R,Republican Party,135.0
+"19 Whispering Rod Rd., Unionville, CT-06085",0,Edward,Leary,J.,Edward J. Leary,6,288,R,Republican Party,135.0
+"15 Twin Ponds Drive, Unionville, CT-06085",0,Barbara,Brenneman,,Barbara Brenneman,1,289,D,Democratic Party,250.0
+"8 East Rocks Road, Norwalk, CT-06851",0,Chris,Perone,,Chris Perone,1,290,D,Democratic Party,250.0
+"118 Marilyn Drive, Glastonbury, CT-06033",0,Charles,Murray,,Charles Murray,1,291,D,Democratic Party,250.0
+"13 Elm St. Apt. 2, Norwalk, CT-06850",0,Darline,Perpignan,,Darline Perpignan,6,292,R,Republican Party,135.0
+"184 Lincoln Drive, Glastonbury, CT-06033",0,Lisbeth,Becker,,Lisbeth Becker,6,293,R,Republican Party,135.0
+"50 Aiken Street #246, Norwalk, CT-06851",0,Fred,Wilms,,Fred Wilms,6,294,R,Republican Party,135.0
+"3 Sweet Briar Lane, Cos Cob, CT-06807",0,Fred,DeCaro III,,Fred DeCaro III,6,295,R,Republican Party,135.0
+"72 Oak Ridge St., Greenwich, CT-06830",0,Michael,Aurelia,,Michael Aurelia,1,296,D,Democratic Party,250.0
+"287 Bridge Street, Stamford, CT-06905",0,Caroline,Simmons,,Caroline Simmons,1,297,D,Democratic Party,250.0
+"17 Maple St., Jewett City, CT-06351",0,George,Kennedy,,George Kennedy,1,298,D,Democratic Party,250.0
+"97 Harvest Hill Lane, Stamford, CT-06905",0,Steven,Kolenberg,Bartolo,Steven Bartolo Kolenberg,6,299,R,Republican Party,135.0
+"119 N. Main St., Jewett City, CT-06351",0,Cathlene,Briody,D.,Cathlene D. Briody,6,300,R,Republican Party,135.0
+"104 North St. Apt. 602, Stamford, CT-06902",0,Arkadiusz,Jakubowski,,Arkadiusz Jakubowski,6,302,R,Republican Party,135.0
+"198 Gallup Hill Rd., Ledyard, CT-06339",0,Nancy,Lozier,,Nancy Lozier,6,303,R,Republican Party,135.0
+"99 Chestnut Hill Rd., Stamford, CT-06903",0,William,Tong,,William Tong,1,304,D,Democratic Party,250.0
+"23 Mathewson Mill Rd., Ledyard, CT-06339",0,Hazel,Gorman,M.,Hazel M. Gorman,1,305,D,Democratic Party,250.0
+"100 Mitchell Hill Rd., Lyme, CT-06371",0,Dianne,Ahlberg,,Dianne Ahlberg,1,307,D,Democratic Party,250.0
+"14 Carter Dr., Stamford, CT-06902",0,Daniel,Fox,J.,Daniel J. Fox,1,308,D,Democratic Party,250.0
+"10 Becket Hill Rd., Lyme, CT-06371",0,Jane,Boyd,C.,Jane C. Boyd,6,309,R,Republican Party,135.0
+"20 Judy Lane, Stamford, CT-06906",0,Phil,Balestriere,,Phil Balestriere,6,310,R,Republican Party,135.0
+"7 Tingue St., Greenwich, CT-06830",0,Mike,Bocchino,,Mike Bocchino,6,311,R,Republican Party,135.0
+"72 Scarborough Rd., Manchester, CT-06040",0,Timothy,Becker,H.,Timothy H. Becker,6,312,R,Republican Party,135.0
+"35 Chatham Dr., Manchester, CT-06042",0,James,Stevenson,R.,James R. Stevenson,1,313,D,Democratic Party,250.0
+"55 Dobson Circle, Middletown, CT-06457",0,David,Bauer,,David Bauer,6,314,R,Republican Party,135.0
+"11 Prospect St., Middletown, CT-06457",0,Elizabeth,Santangelo,N.W.,Elizabeth N.W. Santangelo,1,315,D,Democratic Party,250.0
+"440 Elm St., Monroe, CT-06468",0,Jamieson,Campbell,,Jamieson Campbell,1,316,D,Democratic Party,250.0
+"30 Nelson Brook Rd., Monroe, CT-06468",0,Margaret,Villani,,Margaret Villani,6,317,R,Republican Party,135.0
+"302 Ashmun Street, New Haven, CT-06511",0,Delores,Knight,M.,Delores M. Knight,6,318,R,Republican Party,135.0
+"1460 Ella T. Grasso Blvd., New Haven, CT-06511",0,Shannel,Evans,,Shannel Evans,1,319,D,Democratic Party,250.0
+"70 Bailey Rd., North Haven, CT-06473",0,Laurie,Brangi,,Laurie Brangi,6,320,R,Republican Party,135.0
+"10 Watson Avenue, North Haven, CT-06473",0,Patricia,Jackson-Marshall,A.,Patricia A. Jackson-Marshall,1,321,D,Democratic Party,250.0
+"15 Chadwick Dr., Old Lyme, CT-06371",0,Catherine,Carter,Quine,Catherine Quine Carter,6,324,R,Republican Party,135.0
+"5 Laurel Drive, Old Lyme, CT-06371",0,Marylin,Clarke,C.,Marylin C. Clarke,1,325,D,Democratic Party,250.0
+"431 Woodstock Ave., Putnam, CT-06260",0,Patricia,Fondelheit,,Patricia Fondelheit,1,326,D,Democratic Party,250.0
+"199 River Rd., Putnam, CT-06260",0,Robert,Swenson,L.,Robert L. Swenson,6,327,R,Republican Party,135.0
+"17 Princess Wenonah Dr., Shelton, CT-06484",0,John,Finn,,"John ""Jack"" Finn",1,328,D,Democratic Party,250.0
+"18 Coachmans Lane, Shelton, CT-06484",0,Peter,Pavone,R.,Peter R. Pavone,6,329,R,Republican Party,135.0
+"14 Brownstone Rd., Wallingford, CT-06492",0,Betty,Torre,,Betty Torre,1,330,D,Democratic Party,250.0
+"65B Masonic Ave. #144, Wallingford, CT-06492",0,Chet,Miller,,Chet Miller,6,331,R,Republican Party,135.0
+"14 Clematis Ave., Waterbury, CT-06708",0,Timothy,DeCarlo,T.,Timothy T. DeCarlo,6,332,R,Republican Party,135.0
+"38 Lyman Rd., Waterbury, CT-06704",0,Teresa,Begnal,,Teresa Begnal,1,333,D,Democratic Party,250.0
+"29 Platt Ave., West Haven, CT-06516",0,Jo,Callegari,Ann,Jo Ann Callegari,6,334,R,Republican Party,135.0
+"45 Windmill Hill, Wethersfield, CT-06109",0,Camille,Mogelnicki,,Camille Mogelnicki,1,336,D,Democratic Party,250.0
+"76 Black Birch Rd., Wethersfield, CT-06109",0,Carol,Hurley,,Carol Hurley,6,337,R,Republican Party,135.0
+"61 Mayflower Dr., Wilton, CT-06897",0,Annalisa,Favarolo,Stravato,Annalisa Stravato Favarolo,6,338,R,Republican Party,135.0
+"68 Saint Johns Rd., Wilton, CT-06897",0,Carole,Young-Kleinfeld,,Carole Young-Kleinfeld,1,339,D,Democratic Party,250.0
+"3 Sarah Anne Lane, Windsor, CT-06095",0,Karen,Andrews,A.,Karen A. Andrews,6,340,R,Republican Party,135.0
+"14 Dudley Town Rd., Windsor, CT-06095",0,Anita,Mips,M.,Anita M. Mips,1,341,D,Democratic Party,250.0
+"22 Fort Griswold Lane, Mansfield, CT-06250",0,Mark,Sargent,R.,Mark R. Sargent,6,342,R,Republican Party,135.0
+"28 Storrs Heights Rd., Mansfield, CT-06268",0,Gregg,Haddad,,Gregg Haddad,1,343,D,Democratic Party,250.0
+"95 Liberty St. #A4, Stamford, CT-06902",0,Patricia Billie,Miller,,Patricia Billie Miller,1,344,D,Democratic Party,250.0
+"436 Bebbington Rd., Ashford, CT-06278",0,Kevin,McCarthy,T.,Kevin T. McCarthy,1,346,D,Democratic Party,250.0
+"136 Moon Road, Ashford, CT-06278",0,Colleen,DePercio,,Colleen DePercio,6,347,R,Republican Party,135.0
+"46 Knollcrest Dr., Brookfield, CT-06804",0,Ryan,Murphy,,Ryan Murphy,6,348,R,Republican Party,135.0
+"8 Forty Acre Mountain Rd., Brookfield, CT-06804",0,Dorothy,Dori,A.,Dorothy A. Dori,1,349,D,Democratic Party,250.0
+"122 Bedlam Rd., Chaplin, CT-06235",0,Christopher,Komuves,Scott,Christopher Scott Komuves,1,350,D,Democratic Party,250.0
+"137 Bedlam Rd., Chaplin, CT-06235",0,Eugene,Boomer Jr.,V.,Eugene V. Boomer Jr.,6,351,R,Republican Party,135.0
+"15 Washington St., Derby, CT-06418",0,Rachel,Nichols,,Rachel Nichols,6,352,R,Republican Party,135.0
+"13 Howard Avenue, Derby, CT-06418",0,Louise,Pitney,A.,Louise A. Pitney,1,353,D,Democratic Party,250.0
+"19 Mauwee Brook Way, Kent, CT-06757",0,Janice,Gadiel,W.,Janice W. Gadiel,6,354,R,Republican Party,135.0
+"254 Macedonia Rd., Kent, CT-06757",0,Karen,Chase,A.,Karen A. Chase,1,355,D,Democratic Party,250.0
+"14 Bundy Hill Rd., Lisbon, CT-06351",0,Stephen,Barrett,C.,Stephen C. Barrett,1,356,D,Democratic Party,250.0
+"61 Blueberry Lane, Lisbon, CT-06351",0,Mary,Grant,S.,Mary S. Grant,6,357,R,Republican Party,135.0
+"23 Storrs Heights Rd., Mansfield, CT-06268",0,Beverly,Mann Miela,,Beverly Mann Miela,6,358,R,Republican Party,135.0
+"15 Bundy Lane, Storrs, CT-06268",0,Jeanne,Ahern Mogayzel,,Jeanne Ahern Mogayzel,1,359,D,Democratic Party,250.0
+"67 Wolfneck Rd., Stonington, CT-06378",0,Peggy,Cawley,,Peggy Cawley,1,360,D,Democratic Party,250.0
+"12 Castle Hill Rd., Pawcatuck, CT-06379",0,Karen,Linehan,O.,Karen O. Linehan,6,361,R,Republican Party,135.0
+"71 Cherry Ave, Watertown, CT-06795",0,Robert,Porter,M.,Robert M. Porter,6,362,R,Republican Party,135.0
+"86 Westview Dr., Oakville, CT-06779",0,Debra,Hughes,A.,Debra A. Hughes,1,363,D,Democratic Party,250.0
+"33 Long Meadow Rd., Bethel, CT-06801",0,William,Duff,,William Duff,6,364,R,Republican Party,135.0
+"9 Cross Hill Rd., Bethel, CT-06801",0,Raghib,Allie-Brennan,,Raghib Allie-Brennan,1,365,D,Democratic Party,250.0
+"48 Brookview Rd., Windsor, CT-06095",0,Paul,Panos,,Paul Panos,6,366,R,Republican Party,135.0
+"43 Warren St., Hartford, CT-06120",0,Brandon,McGee,,Brandon McGee,1,367,D,Democratic Party,250.0
+"15 Columbia Landing, Columbia, CT-06237",0,Thomas,Currier,,Thomas Currier,1,368,D,Democratic Party,250.0
+"67 Deer Hill Lane, Coventry, CT-06238",0,Tim,Ackert,,Tim Ackert,6,369,R,Republican Party,135.0
+"169 Langford Lane, East Hartford, CT-06118",0,Jason,Rojas,,Jason Rojas,1,370,D,Democratic Party,250.0
+"5 Elaine Drive, East Hartford, CT-06118",0,Henry,Genga,,Henry Genga,1,371,D,Democratic Party,250.0
+"119 Naubuc Ave., East Hartford, CT-06118",0,Travis,Simpson,J.,Travis J. Simpson,6,372,R,Republican Party,135.0
+"190 Henry Street, Manchester, CT-06042",0,John,Topping,D.,John D. Topping,6,373,R,Republican Party,135.0
+"45 Chatham Dr., Manchester, CT-06042",0,Kelly,Luxenberg,J.S.,Kelly J.S. Luxenberg,1,374,D,Democratic Party,250.0
+"26 Finley St., Manchester, CT-06040",0,Joe,Diminico,,Joe Diminico,1,375,D,Democratic Party,250.0
+"107 Steep Hollow Lane, Manchester, CT-06040",0,Mark,Tweedie,,Mark Tweedie,6,376,R,Republican Party,135.0
+"32 Lincoln Lane, Simsbury, CT-06089",0,Lydia,Tedone,,Lydia Tedone,6,377,R,Republican Party,135.0
+"9 Knoll Lane, Weatogue, CT-06089",0,John,Hampton,K.,John K. Hampton,1,378,D,Democratic Party,250.0
+"15 Deepwood Lane, West Hartford, CT-06107",0,Chris,Barnes,,Chris Barnes,6,379,R,Republican Party,135.0
+"51 Fairlee Rd., West Hartford, CT-06107",0,Derek,Slap,,Derek Slap,1,380,D,Democratic Party,250.0
+"6 Deborah Lane, Farmington, CT-06032",0,Mike,Demicco,,Mike Demicco,1,381,D,Democratic Party,250.0
+"1773 Farmington Ave., Unionville, CT-06085",0,Christ,Forster,,Chris Forster,6,382,R,Republican Party,135.0
+"132 Red Stone Hill, Plainville, CT-06062",0,William,Petit,A.,"William A. Petit, Jr.",6,383,R,Republican Party,135.0
+"43 Hollyberry La., Plainville, CT-06062",0,Elizabeth,Boukus,,"Elizabeth ""Betty"" Boukus",1,384,D,Democratic Party,250.0
+"76 Black Birch Rd., Wethersfield, CT-06109",0,Mike,Hurley,,Mike Hurley,6,385,R,Republican Party,135.0
+"495 Brimfield Rd., Wethersfield, CT-06109",0,Russell,Morin,A.,Russell A. Morin,1,386,D,Democratic Party,250.0
+"42 Fern St., Rocky Hill, CT-06067",0,Todd,Brown,,Todd Brown,6,387,R,Republican Party,135.0
+"1418 Farmington Ave., Berlin, CT-06037",0,Joe,Aresimowicz,,Joe Aresimowicz,1,389,D,Democratic Party,250.0
+"435 Wigwam Road, Berlin, CT-06037",0,Christopher,Morelli,,Christopher D. Morelli,6,390,R,Republican Party,135.0
+"168 Grasmere Avenue, Fairfield, CT-06824",0,Matt,Waggner,,Matt Waggner,1,391,D,Democratic Party,250.0
+"186 Chimney Sweep Hill Rd., Glastonbury, CT-06033",0,Matt,Saunig,,Matt Saunig,1,392,D,Democratic Party,250.0
+"268 Grandview Dr., Glastonbury, CT-06033",0,Prasad,Srinivasan,,Prasad Srinivasan,6,393,R,Republican Party,135.0
+"140 Knox Blvd., Middletown, CT-06457",0,Linda,Szynkowicz,,Linda Szynkowicz,6,394,R,Republican Party,135.0
+"1510 Randolph Rd., Middletown, CT-06457",0,Joseph,Serra,C.,Joseph C. Serra,1,395,D,Democratic Party,250.0
+"148 Pokorny Rd., Higganum, CT-06441",0,Robert,Siegrist,W.,Robert W. Siegrist III,6,396,R,Republican Party,135.0
+"24 Bushy Hill Rd., Essex, CT-06409",0,Philip,Miller,,Philip Miller,1,397,D,Democratic Party,250.0
+"10 Wildwood Drive, Niantic, CT-06357",0,Beth,Hogan,,Beth Hogan,1,398,D,Democratic Party,250.0
+"16 Mitchell Dr., Niantic, CT-06357",0,Holly,Cheeseman,H.,Holly H. Cheeseman,6,399,R,Republican Party,135.0
+"226 Great Neck Rd., Waterford, CT-06385",0,Kathleen,McCarty,M.,Kathleen M. McCarty,6,400,R,Republican Party,135.0
+"27 Old Barry Rd., Quaker Hill, CT-06375",0,Sharon,Palmer,M.,Sharon M. Palmer,1,401,D,Democratic Party,250.0
+"674 Cow Hill Rd., Groton, CT-06340",0,John,Scott,F.,John F. Scott,6,402,R,Republican Party,135.0
+"90 Crown Knoll Court, Unit 144, Groton, CT-06340",0,Christine,Conley,,Christine Conley,1,403,D,Democratic Party,250.0
+"28 Miller Road, North Stonington, CT-06359",0,Nicholas,Mullane,H.,Nicholas H. Mullane II,6,404,R,Republican Party,135.0
+"146 Babcock Road, North Stonington, CT-06359",0,Diana,Urban,S.,Diana S. Urban,1,405,D,Democratic Party,250.0
+"70 Haley Meadow Rd., Griswold, CT-06351",0,Kevin,Skulczyck,,Kevin Skulczyck,6,406,R,Republican Party,135.0
+"25 Sherwood Lane, Norwich, CT-06360",0,Emmett,Riley,D.,Emmett D. Riley,1,408,D,Democratic Party,250.0
+"36 River Avenue, Norwich, CT-06360",0,Rob,Dempsky,,Rob Dempsky,6,409,R,Republican Party,135.0
+"52 Standish Rd., Colchester, CT-06415",0,Linda,Orange,A.,Linda A. Orange,1,410,D,Democratic Party,250.0
+"23 Joseph Lane, Colchester, CT-06415",0,Evan,Evans,A.,Evan A. Evans,6,411,R,Republican Party,135.0
+"181 Laurel Point Rd., Dayville, CT-06241",0,Daniel,Rovero,,Daniel Rovero,1,412,D,Democratic Party,250.0
+"212 Chase Road, Thompson, CT-06277",0,Brian,Lynch,,Brian Lynch,6,413,R,Republican Party,135.0
+"4 West End St., Stafford, CT-06076",0,Kurt,Vail,,Kurt Vail,6,414,R,Republican Party,135.0
+"29 Woodland Dr., Stafford, CT-06076",0,Kathy,Bachiochi,,Kathy Bachiochi,1,415,D,Democratic Party,250.0
+"55 Lee Lane, Tolland, CT-06084",0,Sam,Belsito,,Sam Belsito,6,416,R,Republican Party,135.0
+"178 Waterfall Road, Ashford, CT-06278",0,Susan,Eastwood,,Susan Eastwood,1,417,D,Democratic Party,250.0
+"10 Steele Rd., Enfield, CT-06082",0,Greg,Stokes,,Greg Stokes,6,418,R,Republican Party,135.0
+"277 Pearl St., Enfield, CT-06082",0,David,Alexander,,David Alexander,1,419,D,Democratic Party,250.0
+"14 Long Hollow Rd., Enfield, CT-06082",0,Carol,Hall,,Carol Hall,6,420,R,Republican Party,135.0
+"19 Lancer Dr., Enfield, CT-06082",0,Anthony,DiPace,M.,Anthony M. DiPace,1,421,D,Democratic Party,250.0
+"42 Elm St., Windsor Locks, CT-06096",0,Scott,Storms,A.,Scott A. Storms,6,422,R,Republican Party,135.0
+"20 Kendrick Ln., Windsor, CT-06095",0,Tim,Curtis,,Tim Curtis,1,423,D,Democratic Party,250.0
+"42 Wheeler Rd., Litchfield, CT-06759",0,David,Wilson,T.,David T. Wilson,6,425,R,Republican Party,135.0
+"44 Torrington Rd., Litchfield, CT-06759",0,Gayle,Carr,,Gayle Carr,1,426,D,Democratic Party,250.0
+"585 Park Rd. #6-5, Waterbury, CT-06708",0,Steven,Giacomi,R.,Steven R. Giacomi,6,427,R,Republican Party,135.0
+"134 Gaylord Dr., Waterbury, CT-06708",0,Jeffrey,Berger,J.,Jeffrey J. Berger,1,428,D,Democratic Party,250.0
+"66 Fleetwood Dr., Waterbury, CT-06706",0,Stephanie,Cummings,E.,Stephanie E. Cummings,6,429,R,Republican Party,135.0
+"329 Schraftts Dr. 306, Waterbury, CT-06705",0,Wendy,Tyson-Wood,,Wendy Tyson-Wood,1,430,D,Democratic Party,250.0
+"126 Tower Rd., Waterbury, CT-06710",0,Raymond,Work,,Raymond Work,6,431,R,Republican Party,135.0
+"30 Madison St., Waterbury, CT-06706",0,Geraldo,Reyes,,Geraldo Reyes Jr.,1,432,D,Democratic Party,250.0
+"50 Judson St., Thomaston, CT-06787",0,John,Piscopo,,John Piscopo,6,433,R,Republican Party,135.0
+"155 Woodchuck Lane, Harwinton, CT-06791",0,Myrna,Watanabe,E.,Myrna E. Watanabe,1,434,D,Democratic Party,250.0
+"276 Bound Line Road, Wolcott, CT-06716",0,Rob,Sampson,,Rob Sampson,6,435,R,Republican Party,135.0
+"70 Southwind Dr., Wallingford, CT-06492",0,Serge,Mihaly,,Serge Mihaly,6,437,R,Republican Party,135.0
+"188 South Cherry St., Wallingford, CT-06492",0,Mary,Mushinsky,M.,Mary M. Mushinsky,1,438,D,Democratic Party,250.0
+"230 Clintonville Lane, North Haven, CT-06473",0,Steve,Gifford,,Steve Gifford,1,439,D,Democratic Party,250.0
+"1804 Hartford Tpke., North Haven, CT-06473",0,David,Yaccarino,,David Yaccarino,6,440,R,Republican Party,135.0
+"21 North Woods Road, Hamden, CT-06518",0,Marjorie,Bonadies,,Marjorie Bonadies,6,442,R,Republican Party,135.0
+"179 Grieb Road, Wallingford, CT-06492",0,Craig,Fishbein,,Craig Fishbein,6,443,R,Republican Party,135.0
+"844 Old Durham Rd., Wallingford, CT-06492",0,Patrick,Reynolds,,Patrick Reynolds,1,444,D,Democratic Party,250.0
+"575 Ridge Road, Hamden, CT-06517",0,Michael,D'Agostino,,Michael D'Agostino,1,445,D,Democratic Party,250.0
+"760 Mix Ave Apt. 4F, Hamden, CT-06514",0,James,Lynch,,James Lynch,6,446,R,Republican Party,135.0
+"605 Valley St., New Haven, CT-06515",0,Douglas,Losty,,Douglas Losty,6,447,R,Republican Party,135.0
+"1643 Ella T. Grasso Blvd., New Haven, CT-06511",0,Toni,Walker,E.,Toni E. Walker,1,448,D,Democratic Party,250.0
+"348 Boston St., Guilford, CT-06437",0,Sean,Scanlon,,Sean Scanlon,1,449,D,Democratic Party,250.0
+"64 Liberty St. #1, Middletown, CT-06457",0,Anthony,Moran,R.J.,Anthony R.J. Moran,6,450,R,Republican Party,135.0
+"2 Mazzotta Place, Middletown, CT-06457",0,Matt,Lesser,,Matt Lesser,1,451,D,Democratic Party,250.0
+"60 Maple St. Apt. 44, Branford, CT-06405",0,Lonnie,Reed,,Lonnie Reed,1,452,D,Democratic Party,250.0
+"405 Sycamore Ln., Cheshire, CT-06410",0,Liz,Linehan,,Liz Linehan,1,454,D,Democratic Party,250.0
+"379 Peck Lane, Cheshire, CT-06410",0,Andrew,Falvey,,Andrew Falvey,6,455,R,Republican Party,135.0
+"183 Wakelee Avenue, Ansonia, CT-06401",0,Joseph,Jaumann,A.,Joseph A. Jaumann,6,456,R,Republican Party,135.0
+"158 Hodge Avenue, Ansonia, CT-06401",0,Linda,Gentile,M.,Linda M. Gentile,1,457,D,Democratic Party,250.0
+"23 Osprey Dr., Seymour, CT-06483",0,Nicole,Klarides-Ditria,,Nicole Klarides-Ditria,6,458,R,Republican Party,135.0
+"177 Skokorat St., Seymour, CT-06483",0,Theresa,Conroy,W.,Theresa W. Conroy,1,459,D,Democratic Party,250.0
+"17 Valley View Drive, Danbury, CT-06810",0,V.,Roeun,,V. Roeun,6,460,R,Republican Party,135.0
+"141 Great Plain Rd., Danbury, CT-06811",0,David,Arconti,,David Arconti Jr.,1,461,D,Democratic Party,250.0
+"32 Farview Avenue, Danbury, CT-06810",0,Emanuela,Palmares,,Emanuela Palmares,6,462,R,Republican Party,135.0
+"13 Stillman Ave., Danbury, CT-06810",0,Bob,Bodfrey,,Bob Godfrey,1,463,D,Democratic Party,250.0
+"20 Emerald Ridge Court, Shelton, CT-06484",0,Adam,Heller,,Adam M. Heller,1,464,D,Democratic Party,250.0
+"231 Daytona St., West Haven, CT-06516",0,Richard,DePalma,,Richard DePalma,6,467,R,Republican Party,135.0
+"13 Twin Circle Rd., West Haven, CT-06516",0,Charles,Ferraro,,Charles Ferraro,6,468,R,Republican Party,135.0
+"10 Colonial Place, West Haven, CT-06516",0,Sean,Ronan,P.,Sean P. Ronan,1,469,D,Democratic Party,250.0
+"185 Riggs Street, Oxford, CT-06478",0,David,Labriola,K.,David K. Labriola,6,470,R,Republican Party,135.0
+"265 Chestnut Tree Hill Rd., Oxford, CT-06478",0,Scott,Flaherty,,Scott Flaherty,1,471,D,Democratic Party,250.0
+"123 Georgetown Rd., Weston, CT-06883",0,Bonnie,Troy,,Bonnie Troy,1,472,D,Democratic Party,250.0
+"65 Redding Rd., Easton, CT-06612",0,Adam,Dunsby,,Adam Dunsby,6,473,R,Republican Party,135.0
+"4 Old Hayrake Road, Danbury, CT-06811",0,Michael,Ferguson,,Michael S. Ferguson,6,474,R,Republican Party,135.0
+"12 Quail Run Drive, Danbury, CT-06811",0,Jeff,Tomchik,,Jeff Tomchik,1,475,D,Democratic Party,250.0
+"21 Terrace Dr., Oakdale, CT-06370",0,Kevin,Ryan,,Kevin Ryan,1,477,D,Democratic Party,250.0
+"19 Salt Box Lane, Darien, CT-06820",0,Randy,Klein,,Randy Klein,1,478,D,Democratic Party,250.0
+"50 St. Nicholas Rd., Darien, CT-06820",0,Terrie,Wood,E.,Terrie E. Wood,6,479,R,Republican Party,135.0
+"210 Round Hill Road, Greenwich, CT-06831",0,Livvy,Floren,,Livvy Floren,6,480,R,Republican Party,135.0
+"35 MacArthur Dr., Old Greenwich, CT-06870",0,Fred,Camillo,,Fred Camillo,6,481,R,Republican Party,135.0
+"502 Cognewaugh Rd., Cos Cob, CT-06807",0,Dita,Bhargava,,Dita Bhargava,1,482,D,Democratic Party,250.0
+"194 Catherine Dr., Rocky Hill, CT-06067",0,Antonio,Guerrera,,"Antonio ""Tony"" Guerrera",1,483,D,Democratic Party,250.0
+"10 Plymouth Rd., West Hartford, CT-06119",0,Beth,Bye,,Beth Bye,1,484,D,Democratic Party,250.0
+"11 Avalon Dr., Avon, CT-06001",0,David,Pena,,David Pena,1,485,D,Democratic Party,250.0
+"121 Dwight St., New Britain, CT-06051",0,Richard,Gadomski,,Richard H. Gadomski,6,486,R,Republican Party,135.0
+"426 Connecticut Ave., Newington, CT-06111",0,Gary,Byron,,Gary Byron,6,487,R,Republican Party,135.0
+"21 Summit Farms Rd., Southington, CT-06489",0,Robert,Sherman,,Robert Sherman,6,489,R,Republican Party,135.0
+"120 Butternut Lane, Southington, CT-06489",0,Thomas,Janik,S.,Thomas S. Janik,1,490,D,Democratic Party,250.0
+"31 Plainfield Rd., West Hartford, CT-06117-1936",0,Gail,Crockett,M.,Gail M. Crockett,1,491,D,Democratic Party,250.0
+"52 Arundel Ave., West Hartford, CT-06107",0,Beth,Kyle,,Beth Kyle,6,492,R,Republican Party,135.0
+"6 Shady Rest Blvd., Sandy Hook, CT-06482",0,Carey,Schierloh,,Carey Schierloh,6,493,R,Republican Party,135.0
+"6 Pebble Rd., Newtown, CT-06470",0,LeReine,Frampton,,LeReine Frampton,1,495,D,Democratic Party,250.0
+"4 Cooks Lane, Killingworth, CT-06419",0,Lauren,Blaha,,Lauren Blaha,6,496,R,Republican Party,135.0
+"26 Boulder Trail, Killingworth, CT-06419",0,Elizabeth,Dennis,W.,Elizabeth W. Dennis,1,497,D,Democratic Party,250.0
+"3 Wiley Lane, Newtown, CT-06470",0,Mitch,Bolinsky,,Mitch Bolinsky,6,498,R,Republican Party,135.0
+"22 Bankside Trail, Sandy Hook, CT-06482",0,Eva,Zimmerman,B.,Eva B. Zimmerman,1,499,D,Democratic Party,250.0
+"60 Westford Rd., Stafford, CT-06076",0,Arlene,Avery,,Arlene Avery,1,501,D,Democratic Party,250.0
+"89 Cherniske Rd., New Millford, CT-06776",0,Mary Jane,Lundgren,,Mary Jane Lundgren,1,502,D,Democratic Party,250.0
+"66 Bridge St., New Millford, CT-06776",0,William,Buckbee,,William Buckbee,6,503,R,Republican Party,135.0
+"284 Mary Avenue, Stratford, CT-06615",0,Joseph,Gresko,P.,Joseph P. Gresko,1,505,D,Democratic Party,250.0
+"7 Ford Rd., Ansonia, CT-06401",0,Thomas,Maffeo,,Thomas Maffeo,1,506,D,Democratic Party,250.0
+"18 Farrell Dr., Ansonia, CT-06401",0,NAncy,Valentine,,Nancy Valentine,6,507,R,Republican Party,135.0
+"54 Hennequin Rd., Columbia, CT-06237",0,Astrid,Belanger,,Astrid Belanger,6,508,R,Republican Party,135.0
+"20 Wildwood Dr., Columbia, CT-06237",0,Karen,Butzgy,C.,Karen C. Butzgy,1,509,D,Democratic Party,250.0
+"18 Breckenridge Ave., Meriden, CT-06450",0,Maureen,Flynn,E.,Maureen E. Flynn,1,510,D,Democratic Party,250.0
+"309 Bradley Ave, Meriden, CT-06451",0,Catherine,Sarault,,Catherine Sarault,6,511,R,Republican Party,135.0
+"48 Timberlake Rd., Sherman, CT-06784",0,Sheila,McMahon,J.,Sheila J. McMahon,6,512,R,Republican Party,135.0
+"7 Hillside Dr, Sherman, CT-06784",0,Bill,Petkanas,,Bill Petkanas,1,513,D,Democratic Party,250.0
+"160 Main St., Baltic, CT-06330",0,Elizabeth,Calderon,,Elizabeth Calderon,1,514,D,Democratic Party,250.0
+"3 Noah's Way, Baltic, CT-06330",0,Barbara,Richardson Crouch,,Barbara Richardson Crouch,6,515,R,Republican Party,135.0
+"645 Quinebaug Rd., Thompson, CT-06262",0,Ada,Temple,G.,Ada G. Temple,6,516,R,Republican Party,135.0
+"334 West Thompson Rd., Thompson, CT-06277",0,A. Aileen,Witkowski,,A. Aileen Witkowski,1,517,D,Democratic Party,250.0
+"192 Bald Hill Rd., Tolland, CT-06084",0,Leonard,Bach,A.,Leonard A. Bach,6,518,R,Republican Party,135.0
+"18 Pilgrim Dr., Tolland, CT-06084",0,R. Michael,Wyman,,R. Michael Wyman,1,519,D,Democratic Party,250.0
+"24 Dewey Avenue, Milford, CT-06460",0,Rick,Yarrone,,Rick Varrone,6,523,R,Republican Party,135.0
+"292 Naugatuck Ave., Milford, CT-06460",0,Kim,Rose,,Kim Rose,1,524,D,Democratic Party,250.0
+"3 Hawthorne Ct., Litchfield, CT-06759",0,Nancy,Knowlton,C.,Nancy C. Knowlton,6,525,R,Republican Party,135.0
+"25 Byrnes Ave., Litchfield, CT-06759",0,Edith,King,W.,Edith M. King,1,526,D,Democratic Party,250.0
+"24 Maple Drive, Prospect, CT-06712",0,Katherine,Blinstrubas,S.,Katherine S. Blinstrubas,1,527,D,Democratic Party,250.0
+"23 Rockridge Terrace, Prospect, CT-06712",0,Marianne,Byrne,W.,Marianne W. Byrne,6,528,R,Republican Party,135.0
+"30 Peaceable St., Redding, CT-06896",0,Amy,Alcott,,Amy Alcott,6,529,R,Republican Party,135.0
+"30 Mine Hill Road, Redding, CT-06896",0,Joanne,Perlman,L.,Joanne L. Perlman,1,530,D,Democratic Party,250.0
+"535 Undermountain Rd., Salisbury, CT-06068",0,Karin,Gerstel,J.,Karin J. Gerstel,1,531,D,Democratic Party,250.0
+"172 Farnum Rd., Lakeville, CT-06039",0,Maureen,Dell,F.,Maureen F. Dell,6,532,R,Republican Party,135.0
+"452 Main Street, Danielson, CT-06239",0,Mae,Flexer,,Mae Flexer,1,533,D,Democratic Party,250.0
+"70 Troutstream Drive, Vernon, CT-06066",0,Jim,Tedford,,Jim Tedford,6,534,R,Republican Party,135.0
+"20 Gottier Dr., Vernon, CT-06066",0,Michael,Winkler,,Michael Winkler,1,535,D,Democratic Party,250.0
+"2 Pond Rd., Franklin, CT-06254",0,Barbara,Konow,A.,Barbara A. Konow,1,536,D,Democratic Party,250.0
+"106 Robinson Hill Rd., Franklin, CT-06254",0,Eleanor,Wood Dutcher,,Eleanor Wood Dutcher,6,537,R,Republican Party,135.0
+"247 South Rd., East Hartland, CT-06027",0,Patricia,Raskauskas,G.,Patricia G. Raskauskas,6,538,R,Republican Party,135.0
+"27 Center Street, West Hartland, CT-06091",0,Joan,Makowski,L.,Joan L. Makowski,1,539,D,Democratic Party,250.0
+"23 Dick Finn Rd., New Fairfield, CT-06812",0,Elaine,Jordano,A.,Elaine A. Jordano,1,540,D,Democratic Party,250.0
+"62 Possum Drive, New Fairfield, CT-06812",0,Donna,Freeborn,,Donna Freeborn,6,541,R,Republican Party,135.0
+"49 Allyndale Rd., North Canaan, CT-06018",0,Anna,McGuire,,Anna McGuire,6,542,R,Republican Party,135.0
+"170 Church St., North Canaan, CT-06018",0,Patricia,Keilty,,Patricia Keilty,1,543,D,Democratic Party,250.0
+"44 Decker Hill Rd., Scotland, CT-06264",0,Wendy,O'Connor,A.,Wendy A. O'Connor,1,544,D,Democratic Party,250.0
+"132 Hanover Rd., Scotland, CT-06264",0,Melody,Savino,C.,Melody C. Savino,6,545,R,Republican Party,135.0
+"94 Elaine Dr., Stamford, CT-06902",0,Lucy,Corelli,F.,Lucy F. Corelli,6,546,R,Republican Party,135.0
+"16 Stamford Ave., Stamford, CT-06902",0,Ron,Malloy,,Ron Malloy,1,547,D,Democratic Party,250.0
+"25 Maple St., Vernon, CT-06066",0,Chris,Prue,,Chris Prue,1,548,D,Democratic Party,250.0
+"105 Maple Avenue, Unit 40, Vernon, CT-06066",0,John,Anderson,K.,John K. Anderson,6,549,R,Republican Party,135.0
+"92 Westchester Road, Colchester, CT-06415",0,Diana,Norton Giles,,Diana Norton Giles,6,550,R,Republican Party,135.0
+"399 Lebanon Ave., Colchester, CT-06415",0,Dorothy,Mrowka,A.,Dorothy A. Mrowka,1,551,D,Democratic Party,250.0
+"1135 Hulls Farm Rd., Southport, CT-06890",0,Steve,Elworthy,,Steve Elworthy,6,553,R,Republican Party,135.0
+"218 W Old Rte 6, Hampton, CT-06247",0,Dayna,McDermott-Arriola,,Dayna McDermott-Arriola,6,554,R,Republican Party,135.0
+"58 North Brook St., Hampton, CT-06247",0,Mary Louise,Oliver,,Mary Louise Oliver,1,555,D,Democratic Party,250.0
+"29 Greenwoods Rd. East, Norfolk, CT-06058",0,Danese,Perron,,Danese Perron,1,556,D,Democratic Party,250.0
+"15 Aetna Lane, Norfolk, CT-06058",0,Phylis,Bernard,,Phylis Bernard,6,557,R,Republican Party,135.0
+"16 Jordan Terrace, Waterford, CT-06385",0,Patricia,Waters,L.,Patricia L. Waters,6,558,R,Republican Party,135.0
+"68 Dayton Rd., Waterford, CT-06385",0,Julie,Watson Jones,,Julie Watson Jones,1,559,D,Democratic Party,250.0
+"48 Jared Sparks Rd., Willington, CT-06279",0,Suzanne,Chapman,G.,Suzanne G. Chapman,6,560,R,Republican Party,135.0
+"17 Jared Sparks Rd., Willington, CT-06279",0,Christine,Psathas,,Christine Psathas,1,561,D,Democratic Party,250.0
+"15 Olson Rd, Canton, CT-06019",0,John,Miner,,"John ""Jack"" Miner",6,562,R,Republican Party,135.0
+"43 Andrew Dr., Canton, CT-06019",0,Lynn,Homan,,Lynn Homan,1,563,D,Democratic Party,250.0
+"172 Clearview Ave., Harwinton, CT-06791",0,Candace,Crawford,,Candace Crawford,1,564,D,Democratic Party,250.0
+"268 Scoville Hill Rd., Harwinton, CT-06791",0,Deborah,Shea,,Deborah Shea,6,565,R,Republican Party,135.0
+"600 Chestnut Hill, Killingly, CT-06233",0,Janice,Thurlow,,Janice Thurlow,1,566,D,Democratic Party,250.0
+"26 Dark Lantern Hill Rd., Danielson, CT-06239",0,Ulla,Tiik-Barclay,K.,Ulla K.Tiik-Barclay,6,567,R,Republican Party,135.0
+"77 Buckley Hwy, Stafford Springs, CT-06076",2,Ellie,Canestrari,,Ellie Canestrari,6,568,R,Republican Party,135.0
+"93 A Tolland Ave., Stafford Springs, CT-06076",1,Sue,Armstrong,,Sue Armstrong,1,569,D,Democratic Party,250.0
+"227 Ekonk Hill Rd., Sterling, CT-06377",0,Katherine,Hermonot,A.,Katherine A. Hermonot,6,571,R,Republican Party,135.0
+"116 South Main St., Westbrook, CT-06498",0,Nancy,Moore,,Nancy Moore,6,572,R,Republican Party,135.0
+"7 Hickory Hill Rd., Morris, CT-06763",0,Kristen,Edwards,,Kristen Edwards,6,573,R,Republican Party,135.0
+"283 County Road, Morris, CT-06763",0,Carrie,Keppler,,Carrie Keppler,1,574,D,Democratic Party,250.0
+"249 Ninth District Road, Somers, CT-06071",0,David,McCaffrey,P.,David P. McCaffrey,6,577,R,Republican Party,135.0
+"619A Heritage Condo 16, Southbury, CT-06488",0,Marie,Greene,E.,Marie E. Greene,1,578,D,Democratic Party,250.0
+"97 Amity St., Hartford, CT-06106",0,Minnie,Gonzalez,,Minnie Gonzalez,1,579,D,Democratic Party,250.0
+"235 Blue Hills Ave., Hartford, CT-06112",0,Douglas,McCrory,,Douglas McCrory,1,580,D,Democratic Party,250.0
+"50 McKee St., East Hartford, CT-06108",0,Jeff,Currey,,Jeff Currey,1,581,D,Democratic Party,250.0
+"135 West Rd., Canton, CT-06019",0,Timothy,LeGeyt,B.,Timothy B. LeGeyt,6,582,R,Republican Party,135.0
+"160 Colonial St., West Hartford, CT-06110",0,Joe,Verrengia,,Joe Verrengia,1,583,D,Democratic Party,250.0
+"18 Cottage Pl., Old Saybrook, CT-06475",0,Devin,Carney,R.,Devin R. Carney,6,584,R,Republican Party,135.0
+"181 Petticoat Ln., East Haddam, CT-06423",0,Melissa,Ziobron,,Melissa Ziobron,6,585,R,Republican Party,135.0
+"17 Garden Dr., Gales Ferry, CT-06335",0,Mike,France,,Mike France,6,587,R,Republican Party,135.0
+"63 Highpoint Commons, Marlborough, CT-06447",0,Robin,Green,,Robin Green,6,588,R,Republican Party,135.0
+"1 Abbott Rd. Unit 103, Ellington, CT-06029",0,Christopher,Davis,,Christopher Davis,6,589,R,Republican Party,135.0
+"12 Kilmer Lane, Granby, CT-06035",0,Bill,Simanski,,Bill Simanski,6,590,R,Republican Party,135.0
+"617 Bucks Hills Rd., Southbury, CT-06488",0,Arthur,O'Neill,,Arthur O'Neill,6,591,R,Republican Party,135.0
+"54 Woodlawn Avenue, Naugatuck, CT-06770",0,Rosa,Rebimbas,C.,Rosa C. Rebimbas,6,592,R,Republican Party,135.0
+"64 Wellington Ave., Waterbury, CT-06708",0,Anthony,D'Amelio,J.,Anthony J. D'Amelio,6,593,R,Republican Party,135.0
+"70 Blackman Rd., Waterbury, CT-06704",0,Larry,Butler,B.,Larry B. Butler,1,594,D,Democratic Party,250.0
+"555 Preston Ave., Meriden, CT-06450",0,Emil,Altobello,"""Buddy""","Emil ""Buddy"" Altobello",1,595,D,Democratic Party,250.0
+"86 South Ave., Meriden, CT-06451",0,Hilda,Santiago,E.,Hilda E. Santiago,1,596,D,Democratic Party,250.0
+"405 Sea Hill Road, North Branford, CT-06471",0,Vincent,Candelora,J.,Vincent J. Candelora,6,597,R,Republican Party,135.0
+"38 Colonial Dr., Prospect, CT-06712",0,Lezlye,Zupkus,,Lezlye Zupkus,6,598,R,Republican Party,135.0
+"68 West Rock Ave., New Haven, CT-06515",0,Patricia,Dillon,,Patricia Dillon,1,599,D,Democratic Party,250.0
+"99 Division St., New Haven, CT-06511",0,Robyn,Porter,A.,Robyn A. Porter,1,600,D,Democratic Party,250.0
+"34 6th St., New Haven, CT-06519",0,Juan,Candelaria,,Juan Candelaria,1,601,D,Democratic Party,250.0
+"552 Chapel St., New Haven, CT-06511",0,Roland,Lemar,J.,Roland J. Lemar,1,602,D,Democratic Party,250.0
+"151 Huntington Rd., East Haven, CT-06512",0,Alphonse,"Paolillo, Jr.",,"Alphonse Paolillo, Jr.",1,603,D,Democratic Party,250.0
+"85 Liberty St., Madison, CT-06443",0,Noreen,Kokoruda,,Noreen S. Kokoruda,6,604,R,Republican Party,135.0
+"25 Jeremy Drive, New Fairfield, CT-06812",0,Richard,Smith,A.,Richard A. Smith,6,605,R,Republican Party,135.0
+"280 Shelton Rd., Monroe, CT-06468",0,J.P.,Sredzinski,,J.P. Sredzinski,6,606,R,Republican Party,135.0
+"23 East Court, Derby, CT-06418",0,Themis,Klarides,,Themis Klarides,6,607,R,Republican Party,135.0
+"30 Wigwam Dr., Shelton, CT-06484",0,Ben,McGorty,,Ben McGorty,6,608,R,Republican Party,135.0
+"37 Holly Rd., New Canaan, CT-06840",0,Tom,O'Dea,,Tom O'Dea,6,609,R,Republican Party,135.0
+"315 Ely Avenue, Norwalk, CT-06850",0,Bruce,Morris,V.,Bruce V. Morris,1,610,D,Democratic Party,250.0
+"109 Hickory Hill, Wilton, CT-06897",0,Gail,Lavielle,,Gail Lavielle,6,611,R,Republican Party,135.0
+"45 Cedar Lane, Beacon Falls, CT-06403",0,Katherine,Grace,G.,Katherine G. Grace,1,612,D,Democratic Party,250.0
+"108 Feldspar Ave., Beacon Falls, CT-06403",0,Helen,Mis,K.,Helen K. Mis,6,613,R,Republican Party,135.0
+"143 Union St., Deep River, CT-06417",0,Dale,Winchell,,Dale Winchell,6,614,R,Republican Party,135.0
+"241 Main St., New Canaan, CT-06840",0,George,Cody,F.,George F. Cody,1,616,D,Democratic Party,250.0
+"109 Diamond Ave., Plainville, CT-06062",0,Susan,Abram,,Susan Abram,1,617,D,Democratic Party,250.0
+"24 Tull Lane, Pomfret, CT-06259",0,Susan,Devokaitis,,Susan Devokaitis,1,618,D,Democratic Party,250.0
+"62 Pond Circle, Somers, CT-06071",0,Robert,Schmidt,W.,Robert W. Schmidt,1,619,D,Democratic Party,250.0
+"132 High Meadow Dr., Southbury, CT-06488",0,Joann,Bolin,H.,Joann H. Bolin,6,620,R,Republican Party,135.0
+"40 Angevine Rd., Warren, CT-06754",0,Kathleen,Angevine,L.,Kathleen L. Angevine,6,621,R,Republican Party,135.0
+"269 Washington Street, New Britain, CT-06051",0,Robert,Sanchez,(Bobby),Robert (Bobby) Sanchez,1,622,D,Democratic Party,250.0
+"73 Stony Hill Village, Brookfield, CT-06804",0,Stephen,Harding,G.,Stephen G. Harding,6,623,R,Republican Party,135.0
+"7 Orchard Lane, Plainville, CT-06062",0,Beth,Gasparini,,Beth Gasparini,6,637,R,Republican Party,135.0
+"194 Margaret Lane, Orange, CT-06477",0,Frederick,Kendrick,A.,Frederick A. Kendrick,6,638,R,Republican Party,135.0
+"153 Ohman Ave., Orange, CT-06477",0,Janice,Casey,M.,Janice M. Casey,1,641,D,Democratic Party,250.0
+"27 Crestview Dr, Uncasville, CT-06382",6,Dana,McFee,,Dana McFee,6,648,R,Republican Party,135.0
+"15 Longview Drive, Newington, CT-06111",0,Joshua,Shulman,C.,Joshua C. Shulman,1,649,D,Democratic Party,250.0
+"59 New Milford Tpk, New Preston, CT-06777",0,Diane,Chase,N.,Diane N. Chase,6,650,R,Republican Party,135.0
+"81 Lanesville Rd., Unit A, New Millford, CT-06776",0,Cynthia,Day,L.,Cynthia L. Day,7,660,G,Green Party,112.0
+"29 Blamey Circle, Stratford, CT-06614",0,Angela,Capinera,M.,Angela M. Capinera,7,661,G,Green Party,112.0
+"476 Mansfield Ave., Darien, CT-06820",0,Tara,Ochman,B.,Tara B. Ochman,1,663,D,Democratic Party,250.0
+"81 Old Kings Hwy South, Darien, CT-06820",1,D. Jill,McCammon,,D. Jill McCammon,6,664,R,Republican Party,135.0
+"69 St. Nicholas Road, Darien, CT-06820",2,Christa,McNamara,S.,Christa S. McNamara,6,665,R,Republican Party,135.0
+"30 Graham Road, Sharon, CT-06069",0,Marel,Rogers,,Marel E. Rogers,1,666,D,Democratic Party,250.0
+"721 Fifth Avenue PH, New York, NY-10022",2,Donald,Trump,J.,Trump and Pence,6,668,R,Republican Party,135.0
+"50 Indian Field Rd., Greenwich, CT-06830",0,Edward,Heflin,G.,Edward G. Heflin,7,672,G,Green Party,112.0
+"89 Union St, Norwich, CT-06360",0,Dianne,Daniels,M,Dianne M. Daniels,1,673,D,Democratic Party,250.0
+"8 North Second Ave., Taftville, CT-06380",0,Dianne,Slopak,,Dianne Slopak,6,674,R,Republican Party,135.0
+"35 Hunters Run, Mansfield, CT-06268-2748",0,Jonathan,Pelto,,Jonathan Pelto,7,675,G,Green Party,112.0
+"487 East Pond Meadow Rd., Westbrook, CT-06498-1447",0,Colin,Bennett,D.,Colin D. Bennett,7,676,G,Green Party,112.0
+"15 Old House Lane, Chappaqua, NY-10514",1,Hillary,Rodham Clinton,,Clinton and Kaine,1,677,D,Democratic Party,250.0
+"29 B Uncas Ave., Quaker Hill, CT-06375",0,Lauren,Shaw,C.,Lauren C. Shaw,7,678,G,Green Party,112.0
+"100 Westminster Dr., West Hartford, CT-06107",0,Owen,Eagan,,Owen Eagan,1,679,D,Democratic Party,250.0
+"243 Soundview Ave., Bridgeport, CT-06606",0,Ed,Gomes,,Ed Gomes,1,680,D,Democratic Party,250.0
+"165 Harbor St., Branford, CT-06405",0,Christopher,Kelly,,Christopher Kelly,6,682,R,Republican Party,135.0
+"674 Lincoln St., New Britain, CT-06052",0,Terry,Bielinski Gerratana,,Terry Bielinski Gerratana,1,685,D,Democratic Party,250.0
+"666 Cleveland Ave., Bridgeport, CT-06604",2,Marilyn,Moore,V.,Marilyn V. Moore,1,686,D,Democratic Party,250.0
+"18 Crouch Street, New London, CT-06320",0,Christian,Soto,E.,Chris Soto,1,687,D,Democratic Party,250.0
+"59 McArthur Dr., Hamden, CT-06518",0,Joshua,Elliott,,Joshua Elliott,1,688,D,Democratic Party,250.0
+"985 Stratford Ave., Bridgeport, CT-06607",0,Andre,Baker,F.,Andre F. Baker Jr.,1,689,D,Democratic Party,250.0
+"35 Wickliffe Cir., Bridgeport, CT-06606",0,Charlie,Stallworth,,Charlie Stallworth,1,690,D,Democratic Party,250.0
+"15 Lipton Pl., Stamford, CT-06902",0,Terry,Adams,B.,Terry B. Adams,1,691,D,Democratic Party,250.0
+"149 Vine St, New Britain, CT-06052",0,Lucian,Pawlak,J,Lucian J. Pawlak,1,692,D,Democratic Party,250.0
+"16 Alexander Dr., West Haven, CT-06516",0,Sherri,Lepper,,Sherri Lepper,1,693,D,Democratic Party,250.0
+"167 W. Wakefield Blvd., Winsted, CT-06098",0,Jay,Case,M.,Jay M. Case,6,694,R,Republican Party,135.0
+"99 Bishop Lane, Madison, CT-06443",2,Peter,Metz,,Peter Metz,6,696,R,Republican Party,135.0
+"454 Coram Avenue, Shelton, CT-06484",0,Jason,Perillo,,Jason Perillo,6,697,R,Republican Party,135.0
+"14 Apple Tree Rd., Bethel, CT-06801",2,Daniel,O'Grady,,Daniel O'Grady,6,698,R,Republican Party,135.0
+"136 Putney Drive, West Haven, CT-06516",0,Michael,DiMassa,,Michael A. DiMassa,1,699,D,Democratic Party,250.0
+"62 Marsh Road, Easton, CT-06612",0,Vincent,Caprio,,Vincent Caprio,6,700,R,Republican Party,135.0
+"110 Elton Road, Berlin, CT-06037",1,Jake,Fisher,T.,Jake T. Fisher,1033,701,,,
+"710 Worthington Ridge, Berlin, CT-06037",2,Jaymee,Miller,R.,Jaymee R. Miller,1033,702,,,
+"25 Ridgewood Lane, Berlin, CT-06037",3,Matthew,Tencza,T.,Matthew T. Tencza,1033,703,,,
+"14 Pawcatuck Trail, Voluntown, CT-06384",0,Tracey,Hanson,,Tracey Hanson,1,710,D,Democratic Party,250.0
+"118 Downes Street, Waterbury, CT-06704",0,James,Russell,K.,James K. Russell,3,711,IND,Independent Party,204.0
+"7 Ipswitch Rd., Bristol, CT-06010",0,Henri,Martin,,Henri Martin,3,712,IND,Independent Party,204.0
+"132 Red Stone Hill, Plainville, CT-06062",0,William,Petit,A.,"William A. Petit, Jr.",3,713,IND,Independent Party,204.0
+"585 Park Rd. #6-5, Waterbury, CT-06708",0,Steven,Giacomi,R.,Steven R. Giacomi,3,714,IND,Independent Party,204.0
+"66 Fleetwood Dr., Waterbury, CT-06706",0,Stephanie,Cummings,E.,Stephanie E. Cummings,3,715,IND,Independent Party,204.0
+"1924 Perkins Street, Bristol, CT-06010",0,Whit,Betts,,Whit Betts,3,717,IND,Independent Party,204.0
+"9 Chimney Crest Ln., Bristol, CT-06010",0,Pete,Del Mastro,,Pete Del Mastro,3,718,IND,Independent Party,204.0
+"276 Bound Line Road, Wolcott, CT-06716",0,Rob,Sampson,,Rob Sampson,3,719,IND,Independent Party,204.0
+"38 Colonial Dr., Prospect, CT-06712",0,Lezlye,Zupkus,,Lezlye Zupkus,3,720,IND,Independent Party,204.0
+"93 Kelsey Street, Waterbury, CT-06706",0,Danielle,Albert,N.,Danielle N. Albert,3,721,IND,Independent Party,204.0
+"102 Madera Drive, Waterbury, CT-06704",0,Vernon,"Matthews, Jr.",R.,"Vernon R. Matthews, Jr.",3,722,IND,Independent Party,204.0
+"149 Devonwood Drive, Waterbury, CT-06708",0,Cicero,"Booker, Jr.",B.,"Cicero B. Booker, Jr.",3,723,IND,Independent Party,204.0
+"34 Piedmont Street, Waterbury, CT-06706",0,Theodore,"Derouin, Jr.",J.,"Theodore J. Derouin, Jr.",3,724,IND,Independent Party,204.0
+"183 Summit Street, Willimantic, CT-06226",0,Dagmar,Noll,,Dagmar Noll,14,726,,,
+"125 Kenwood Drive, New Britain, CT-06052",0,Sharon,Beloin-Saavedra,R.,Sharon R. Beloin-Saavedra,15,727,PC,Petitioning Candidate,0.0
+"87 Main Street, Somers, CT-06071",0,Linda,LaCasse,Louise,Linda Louise LaCasse,15,728,PC,Petitioning Candidate,0.0
+"3 Gail Drive, Northford, CT-06472",0,Vincent,Mase,J.,Vincent J. Mase,15,730,PC,Petitioning Candidate,0.0
+"75 Cilnton Ave., Stratford, CT-06614",0,Cliffton,Price,A.,Cliffton A. Price,15,731,PC,Petitioning Candidate,0.0
+"56 Cloverhill Ave, Bridgeport, CT-06606",0,Rosa,Correa,J.,Rosa J. Correa,15,732,PC,Petitioning Candidate,0.0
+"56 Babbitt Hill Road, Pomfret Center, CT-06259",0,Martha,Emilio,B.,Martha B. Emilio,15,733,PC,Petitioning Candidate,0.0
+"48 Boothbay Street, Hartford, CT-06112",0,Shari,Williams,Monique,Shari Monique Williams,15,734,PC,Petitioning Candidate,0.0
+"596 Zion Street, Hartford, CT-06106",0,Druecilla,Lewis,L.,Druecilla L. Lewis,15,735,PC,Petitioning Candidate,0.0
+"150 Rugg Brook Road, Winsted, CT-06098",0,Barbara,Braunstein,L.,Barbara L. Braunstein,15,736,PC,Petitioning Candidate,0.0
+"344 Platt Hill Road, Winsted, CT-06098",0,Deborah,Jones,G.,Deborah G. Jones,15,737,PC,Petitioning Candidate,0.0
+"1455 Newfield Ave, Stamford, CT-06905",0,Nicola,Tarzia,,Nicola Tarzia,6,738,R,Republican Party,135.0
+"220 Davenport Farm Lane, Stamford, CT-06903",1,Jennienne,Burke,,Jennienne Burke,1,739,D,Democratic Party,250.0
+"500 Bedford St., #142, Stamford, CT-06901",2,Antoine,Savage,,Antoine Savage,1,741,D,Democratic Party,250.0
+"117 Hardesty Rd., Stamford, CT-06903",0,Geoff,Alswanger,,Geoff Alswanger,1,742,D,Democratic Party,250.0
+"58 Edgar St., East Haven, CT-06512",0,Steve,Tracey,,"""Big"" Steve Tracey",6,743,R,Republican Party,135.0
+"42 Steep Hollow Drive, Glastonbury, CT-06033",0,Lorraine,Marchetti,,Lorraine Marchetti,3,751,IND,Independent Party,204.0
+"145 Robin Rd., West Hartford, CT-06119",0,Mark,Merritt,,Mark Merritt,3,752,IND,Independent Party,204.0
+"15 High Ledge Rd., Canton, CT-06019",0,Kevin,Witkos,,Kevin Witkos,3,754,IND,Independent Party,204.0
+"35 Lydale Place, Meriden, CT-06450",0,Len,Suzio,,Len Suzio,3,756,IND,Independent Party,204.0
+"10 LaRovera Terrace, Ansonia, CT-06401",0,George,Logan,,George Logan,3,758,IND,Independent Party,204.0
+"3 Noah's Way, Baltic, CT-06330",0,Barbara,Richardson Crouch,,Barbara Richardson Crouch,3,760,IND,Independent Party,204.0
+"20-A Bush Hill Drive, Niantic, CT-06357",0,Paul,Formica,M.,Paul M. Formica,3,761,IND,Independent Party,204.0
+"47 W. Wooster St., Danbury, CT-06810",0,Michael,McLachlan,A.,Michael A. McLachlan,3,763,IND,Independent Party,204.0
+"80 Martingale Lane, Fairfield, CT-06824",0,Tony,Hwang,,Tony Hwang,3,765,IND,Independent Party,204.0
+"230 E. Chestnut Hill Rd., Litchfield, CT-06759",0,Craig,Miner,A.,Craig A. Miner,3,767,IND,Independent Party,204.0
+"1110 Old Clinton Rd., Westbrook, CT-06498",0,Art,Linares,,Art Linares,3,768,IND,Independent Party,204.0
+"215 Courtland Ave., Stamford, CT-06906",0,Gino,Bottino,C.,Gino C. Bottino,3,769,IND,Independent Party,204.0
+"6 Deborah Lane, Farmington, CT-06032",0,Mike,Demicco,,Mike Demicco,12,771,WF,Working Families Party,22.0
+"33 Long Meadow Rd., Bethel, CT-06801",0,William,Duff,,William Duff,3,772,IND,Independent Party,204.0
+"130 Felt Rd., South Windsor, CT-06074",0,Tom,Delnicki,,Tom Delnicki,3,773,IND,Independent Party,204.0
+"32 Lincoln Lane, Simsbury, CT-06089",0,Lydia,Tedone,,Lydia Tedone,3,774,IND,Independent Party,204.0
+"18 Cottage Pl., Old Saybrook, CT-06475",0,Devin,Carney,R.,Devin R. Carney,3,775,IND,Independent Party,204.0
+"268 Grandview Dr., Glastonbury, CT-06033",0,Prasad,Srinivasan,,Prasad Srinivasan,3,776,IND,Independent Party,204.0
+"181 Petticoat Ln., East Haddam, CT-06423",0,Melissa,Ziobron,,Melissa Ziobron,3,777,IND,Independent Party,204.0
+"121 Plymouth Road, Westbrook, CT-06498",0,Jesse,MacLachlan,,Jesse MacLachlan,3,778,IND,Independent Party,204.0
+"226 Great Neck Rd., Waterford, CT-06385",0,Kathleen,McCarty,M.,Kathleen M. McCarty,3,779,IND,Independent Party,204.0
+"584 F. Shennecossett Rd., Groton, CT-06340",0,Aundre,Bumgardner,,Aundre Bumgardner,3,780,IND,Independent Party,204.0
+"17 Garden Dr., Gales Ferry, CT-06335",0,Mike,France,,Mike France,3,781,IND,Independent Party,204.0
+"36 River Avenue, Norwich, CT-06360",0,Rob,Dempsky,,Rob Dempsky,3,782,IND,Independent Party,204.0
+"125 N. Bear Hill Road, Chaplin, CT-06235",0,Doug,Dubitsky,,Doug Dubitsky,3,783,IND,Independent Party,204.0
+"4 West End St., Stafford, CT-06076",0,Kurt,Vail,,Kurt Vail,3,784,IND,Independent Party,204.0
+"55 Lee Lane, Tolland, CT-06084",0,Sam,Belsito,,Sam Belsito,3,785,IND,Independent Party,204.0
+"70 Troutstream Drive, Vernon, CT-06066",0,Jim,Tedford,,Jim Tedford,3,786,IND,Independent Party,204.0
+"10 Steele Rd., Enfield, CT-06082",0,Greg,Stokes,,Greg Stokes,3,787,IND,Independent Party,204.0
+"14 Long Hollow Rd., Enfield, CT-06082",0,Carol,Hall,,Carol Hall,3,788,IND,Independent Party,204.0
+"42 Elm St., Windsor Locks, CT-06096",0,Scott,Storms,A.,Scott A. Storms,3,789,IND,Independent Party,204.0
+"11 Seymour Rd., East Granby, CT-06026",0,Tami,Zawistowski,,Tami Zawistowski,3,790,IND,Independent Party,204.0
+"167 W. Wakefield Blvd., Winsted, CT-06098",0,Jay,Case,M.,Jay M. Case,3,791,IND,Independent Party,204.0
+"27 E. Main St., Canaan, CT-06039",0,Brian,Ohler,M.,Brian M. Ohler,3,792,IND,Independent Party,204.0
+"66 Bridge St., New Millford, CT-06776",0,William,Buckbee,,William Buckbee,3,793,IND,Independent Party,204.0
+"70 Southwind Dr., Wallingford, CT-06492",0,Serge,Mihaly,,Serge Mihaly,3,795,IND,Independent Party,204.0
+"405 Sea Hill Road, North Branford, CT-06471",0,Vincent,Candelora,J.,Vincent J. Candelora,3,796,IND,Independent Party,204.0
+"85 Liberty St., Madison, CT-06443",0,Noreen,Kokoruda,,Noreen S. Kokoruda,3,798,IND,Independent Party,204.0
+"379 Peck Lane, Cheshire, CT-06410",0,Andrew,Falvey,,Andrew Falvey,3,799,IND,Independent Party,204.0
+"73 Stony Hill Village, Brookfield, CT-06804",0,Stephen,Harding,G.,Stephen G. Harding,3,800,IND,Independent Party,204.0
+"17 Valley View Drive, Danbury, CT-06810",0,V.,Roeun,,V. Roeun,3,801,IND,Independent Party,204.0
+"280 Shelton Rd., Monroe, CT-06468",0,J.P.,Sredzinski,,J.P. Sredzinski,3,802,IND,Independent Party,204.0
+"23 East Court, Derby, CT-06418",0,Themis,Klarides,,Themis Klarides,3,803,IND,Independent Party,204.0
+"13 Twin Circle Rd., West Haven, CT-06516",0,Charles,Ferraro,,Charles Ferraro,3,804,IND,Independent Party,204.0
+"55 Castle Drive, Stratford, CT-06614",0,Laura,Hoydick,R.,Laura R. Hoydick,3,807,IND,Independent Party,204.0
+"52 Stemway Rd., Trumbull, CT-06611",0,David,Rutigliano,,David Rutigliano,3,808,IND,Independent Party,204.0
+"213 Farist Rd., Fairfield, CT-06825",0,Brenda,Kupchick,,Brenda Kupchick,3,809,IND,Independent Party,204.0
+"85 Brett Lane, Fairfield, CT-06824",0,Laura,Devlin,M.,Laura M. Devlin,3,810,IND,Independent Party,204.0
+"6 Wilcox Lane, Westport, CT-06880",0,Catherine,Walsh,A.,Catherine A. Walsh,3,811,IND,Independent Party,204.0
+"4 Old Hayrake Road, Danbury, CT-06811",0,Michael,Ferguson,,Michael S. Ferguson,3,812,IND,Independent Party,204.0
+"50 Aiken Street #246, Norwalk, CT-06851",0,Fred,Wilms,,Fred Wilms,3,813,IND,Independent Party,204.0
+"199 Easton Ave, Waterbury, CT-06704",1,Richard,Cam,J.,Richard J. Cam,15,815,PC,Petitioning Candidate,0.0
+"58 Edgar St., East Haven, CT-06512",0,Steve,Tracey,,"""Big"" Steve Tracey",3,816,IND,Independent Party,204.0
+"7 Sycamore Lane, North Haven, CT-06473",0,Len,Fasano,,Len Fasano,3,817,IND,Independent Party,204.0
+"47 Elm St., Plantsville, CT-06479",0,Joe,Markley,,Joe Markley,3,818,IND,Independent Party,204.0
+"117 River Rd., Preston, CT-06365",0,Tim,Bowles,,Tim Bowles,12,819,WF,Working Families Party,22.0
+"16 White Swan Drive, New Milford, CT-06776",0,David,Lawson,A.,David A. Lawson,12,820,WF,Working Families Party,22.0
+"9 Cross Hill Rd., Bethel, CT-06801",0,Raghib,Allie-Brennan,,Raghib Allie-Brennan,12,821,WF,Working Families Party,22.0
+"27 Old Barry Rd., Quaker Hill, CT-06375",0,Sharon,Palmer,M.,Sharon M. Palmer,12,822,WF,Working Families Party,22.0
+"25 Sherwood Lane, Norwich, CT-06360",0,Emmett,Riley,D.,Emmett D. Riley,12,824,WF,Working Families Party,22.0
+"29 Woodland Dr., Stafford, CT-06076",0,Kathy,Bachiochi,,Kathy Bachiochi,12,828,WF,Working Families Party,22.0
+"178 Waterfall Road, Ashford, CT-06278",0,Susan,Eastwood,,Susan Eastwood,12,829,WF,Working Families Party,22.0
+"178 West Center St., Southington, CT-06489",0,John,Fusco,,John Fusco,3,831,IND,Independent Party,204.0
+"22 Bankside Trail, Sandy Hook, CT-06482",0,Eva,Zimmerman,B.,Eva B. Zimmerman,12,833,WF,Working Families Party,22.0
+"12 Quail Run Drive, Danbury, CT-06811",0,Jeff,Tomchik,,Jeff Tomchik,12,834,WF,Working Families Party,22.0
+"1109 East Middle Turnpike, Manchester, CT-06040",0,Steve,Cassano,,Steve Cassano,12,835,WF,Working Families Party,22.0
+"14 Honeysuckle Lane, Milford, CT-06461",0,Gayle,Slossberg,,Gayle Slossberg,3,837,IND,Independent Party,204.0
+"87 Finch Ave., Meriden, CT-06451",0,Matthew,Went,S.,Matthew S. Went,7,838,G,Green Party,112.0
+"167 Reynolds Dr., Meriden, CT-06450",0,Dante,Bartolomeo,,Dante Bartolomeo,12,839,WF,Working Families Party,22.0
+"216 Old Turnpike Rd., Southington, CT-06489",0,Ryan,Rogers,P.,Ryan P. Rogers,12,840,WF,Working Families Party,22.0
+"1205 Racebrook Rd., Woodbridge, CT-06525",0,Joe,Crisco,,Joe Crisco,12,841,WF,Working Families Party,22.0
+"88 Parkway South Apt. B, New London, CT-06320",0,Ryan,Henowitz,,Ryan Henowitz,12,842,WF,Working Families Party,22.0
+"89 Padanaram Rd., Danbury, CT-06811",0,Kenneth,Gucker,,Kenneth Gucker,12,843,WF,Working Families Party,22.0
+"2607 Congress St., Fairfield, CT-06824",0,Philip,Dwyer,,Philip Dwyer,12,844,WF,Working Families Party,22.0
+"452 Main Street, Danielson, CT-06239",0,Mae,Flexer,,Mae Flexer,12,845,WF,Working Families Party,22.0
+"60 Westford Rd., Stafford, CT-06076",0,Arlene,Avery,,Arlene Avery,12,846,WF,Working Families Party,22.0
+"141 Douglas St., Hartford, CT-06114",0,Edwin,Vargas,,Edwin Vargas,12,847,WF,Working Families Party,22.0
+"5 Warbler Circle, Bloomfield, CT-06002",0,David,Baram,,David Baram,12,848,WF,Working Families Party,22.0
+"208 South Mountain Dr., New Britain, CT-06052",0,Rick,Lopes,,Rick Lopes,12,849,WF,Working Families Party,22.0
+"269 Washington Street, New Britain, CT-06051",0,Robert,Sanchez,(Bobby),Robert (Bobby) Sanchez,12,850,WF,Working Families Party,22.0
+"15 Longview Drive, Newington, CT-06111",0,Joshua,Shulman,C.,Joshua C. Shulman,12,851,WF,Working Families Party,22.0
+"495 Brimfield Rd., Wethersfield, CT-06109",0,Russell,Morin,A.,Russell A. Morin,12,852,WF,Working Families Party,22.0
+"1418 Farmington Ave., Berlin, CT-06037",0,Joe,Aresimowicz,,Joe Aresimowicz,12,853,WF,Working Families Party,22.0
+"202 Station Road, Hampton, CT-06247",0,Kate,Donnelly,,Kate Donnelly,12,854,WF,Working Families Party,22.0
+"52 Standish Rd., Colchester, CT-06415",0,Linda,Orange,A.,Linda A. Orange,12,855,WF,Working Families Party,22.0
+"120 Bolivia St., Willimantic, CT-06226",0,Susan,Johnson,,Susan Johnson,12,856,WF,Working Families Party,22.0
+"28 Storrs Heights Rd., Mansfield, CT-06268",0,Gregg,Haddad,,Gregg Haddad,12,857,WF,Working Families Party,22.0
+"849 Glacier Way, Southington, CT-06489",0,David,Zoni,,David Zoni,12,858,WF,Working Families Party,22.0
+"188 South Cherry St., Wallingford, CT-06492",0,Mary,Mushinsky,M.,Mary M. Mushinsky,12,859,WF,Working Families Party,22.0
+"68 West Rock Ave., New Haven, CT-06515",0,Patricia,Dillon,,Patricia Dillon,12,860,WF,Working Families Party,22.0
+"99 Division St., New Haven, CT-06511",0,Robyn,Porter,A.,Robyn A. Porter,12,861,WF,Working Families Party,22.0
+"348 Boston St., Guilford, CT-06437",0,Sean,Scanlon,,Sean Scanlon,12,862,WF,Working Families Party,22.0
+"369 Coe Ave #14, East Haven, CT-06512",0,James,Albis,M.,James M. Albis,12,863,WF,Working Families Party,22.0
+"2 Mazzotta Place, Middletown, CT-06457",0,Matt,Lesser,,Matt Lesser,12,864,WF,Working Families Party,22.0
+"158 Hodge Avenue, Ansonia, CT-06401",0,Linda,Gentile,M.,Linda M. Gentile,12,865,WF,Working Families Party,22.0
+"177 Skokorat St., Seymour, CT-06483",0,Theresa,Conroy,W.,Theresa W. Conroy,12,866,WF,Working Families Party,22.0
+"141 Great Plain Rd., Danbury, CT-06811",0,David,Arconti,,David Arconti Jr.,12,867,WF,Working Families Party,22.0
+"13 Stillman Ave., Danbury, CT-06810",0,Bob,Bodfrey,,Bob Godfrey,12,868,WF,Working Families Party,22.0
+"136 Putney Drive, West Haven, CT-06516",0,Michael,DiMassa,,Michael A. DiMassa,12,869,WF,Working Families Party,22.0
+"292 Naugatuck Ave., Milford, CT-06460",0,Kim,Rose,,Kim Rose,12,870,WF,Working Families Party,22.0
+"292 Naugatuck Ave., Milford, CT-06460",0,Kim,Rose,,Kim Rose,3,871,IND,Independent Party,204.0
+"556 Savoy St., Bridgeport, CT-06606",0,John,Hennessy,F.,John F. Hennessy,12,872,WF,Working Families Party,22.0
+"21 Terrace Dr., Oakdale, CT-06370",0,Kevin,Ryan,,Kevin Ryan,12,873,WF,Working Families Party,22.0
+"48 Village Dr., #204, Wethersfield, CT-06109",0,S. Michael,DeRosa,,S. Michael DeRosa,7,875,G,Green Party,112.0
+"48 Village Dr., #204, Wethersfield, CT-06109",0,Barbara,Barry,,Barbara Barry,7,876,G,Green Party,112.0
+"39 Wales Rd., Stafford, CT-06076",3,Curtis,Wright,C.,Curtis C. Wright,13,879,,,
+"183 Summit Street, Willimantic, CT-06226",0,Dagmar,Noll,,Dagmar Noll,7,880,G,Green Party,112.0
+"74 Lenox St., #2, Hartford, CT-06112",0,Martha,Kelly,S.,Martha S. Kelly,7,882,G,Green Party,112.0
+"40 Liberty St., 2b, Stamford, CT-06902",0,Cora Marie,Santaguida,,Cora Marie Santaguida,7,883,G,Green Party,112.0
+"208 Jelliff Mill Rd., New Canaan, CT-06840",0,Hector,Lopez,L.,Hector L. Lopez,7,884,G,Green Party,112.0
+"389 Courtland Ave., Apt. 4B, Stamford, CT-06906",0,Brian,Merlen,,Brian Merlen,7,885,G,Green Party,112.0
+"54 Hope St., Unit I, Stamford, CT-06906",0,Rolf,Maurer,W.,Rolf W. Maurer,7,886,G,Green Party,112.0
+"83 Waldorf Ave., Bridgeport, CT-06605",0,Stephen,Miller,A.,Stephen A. Miller,7,887,G,Green Party,112.0
+"1231 Stillwater Rd., Stamford, CT-06902",0,Eumir,Abela,Antonio,Eumir Antonio Abela,7,888,G,Green Party,112.0
+"48 Sele Dr., South Windsor, CT-06074",0,Carolyn,Streeter Mirek,,Carolyn Streeter Mirek,3,890,IND,Independent Party,204.0
+"67 Ramsdell St., Groton, CT-06340",0,Heather,Somers,,Heather Somers,3,891,IND,Independent Party,204.0
+"59 Coventry Lane, Trumbull, CT-06611",0,Elaine,Hammers,,Elaine Hammers,3,892,IND,Independent Party,204.0
+"38 Pembroke Rd., Darien, CT-06820",0,Gregory,Ehlers,,Gregory Ehlers,3,893,IND,Independent Party,204.0
+"310 Capen St., Hartford, CT-06112",0,Giselle,Jacobs,S.,Giselle S. Jacobs,15,896,PC,Petitioning Candidate,0.0
+"190 Henry Street, Manchester, CT-06042",0,John,Topping,D.,John D. Topping,3,897,IND,Independent Party,204.0
+"107 Steep Hollow Lane, Manchester, CT-06040",0,Mark,Tweedie,,Mark Tweedie,3,898,IND,Independent Party,204.0
+"26 Finley St., Manchester, CT-06040",0,Joe,Diminico,,Joe Diminico,12,899,WF,Working Families Party,22.0
+"93 Rockledge Drive, South Windsor, CT-06074",0,Saud,Anwar,,Saud Anwar,12,900,WF,Working Families Party,22.0
+"175 Brewster Road, West Hartford, CT-06117",0,Robert,Levine,,Robert Levine,3,901,IND,Independent Party,204.0
+"15 Deepwood Lane, West Hartford, CT-06107",0,Chris,Barnes,,Chris Barnes,3,902,IND,Independent Party,204.0
+"1773 Farmington Ave., Unionville, CT-06085",0,Christ,Forster,,Chris Forster,3,903,IND,Independent Party,204.0
+"228 Two Rod Highway, Wethersfield, CT-06109",0,Lee,Johnson,N.,Lee N. Johnson,15,905,PC,Petitioning Candidate,0.0
+"29 Sovereign Ridge, Cromwell, CT-06416",0,Christie,Carpino,M.,Christie M. Carpino,3,906,IND,Independent Party,204.0
+"140 Knox Blvd., Middletown, CT-06457",0,Linda,Szynkowicz,,Linda Szynkowicz,3,907,IND,Independent Party,204.0
+"148 Pokorny Rd., Higganum, CT-06441",0,Robert,Siegrist,W.,Robert W. Siegrist III,3,908,IND,Independent Party,204.0
+"16 Mitchell Dr., Niantic, CT-06357",0,Holly,Cheeseman,H.,Holly H. Cheeseman,3,909,IND,Independent Party,204.0
+"90 Crown Knoll Court, Unit 144, Groton, CT-06340",0,Christine,Conley,,Christine Conley,12,910,WF,Working Families Party,22.0
+"674 Cow Hill Rd., Groton, CT-06340",0,John,Scott,F.,John F. Scott,3,911,IND,Independent Party,204.0
+"95 Corey Rd., Groton, CT-06340",0,Joe,de la Cruz,,Joe de la Cruz,12,912,WF,Working Families Party,22.0
+"167 Washington St, Norwich, CT-06360",0,Bonita,Hong,Bonnie,Bonita Bonnie Hong,15,913,PC,Petitioning Candidate,0.0
+"22 Fort Griswold Lane, Mansfield, CT-06250",0,Mark,Sargent,R.,Mark R. Sargent,3,914,IND,Independent Party,204.0
+"20 Gottier Dr., Vernon, CT-06066",0,Michael,Winkler,,Michael Winkler,12,915,WF,Working Families Party,22.0
+"179 Grieb Road, Wallingford, CT-06492",0,Craig,Fishbein,,Craig Fishbein,3,916,IND,Independent Party,204.0
+"183 Wakelee Avenue, Ansonia, CT-06401",0,Joseph,Jaumann,A.,Joseph A. Jaumann,3,917,IND,Independent Party,204.0
+"23 Osprey Dr., Seymour, CT-06483",0,Nicole,Klarides-Ditria,,Nicole Klarides-Ditria,3,918,IND,Independent Party,204.0
+"32 Farview Avenue, Danbury, CT-06810",0,Emanuela,Palmares,,Emanuela Palmares,3,919,IND,Independent Party,204.0
+"75 StoneRidge Way, Fairfield, CT-06824",0,Raymond,Neuberger,J.,Raymond J. Neuberger,3,920,IND,Independent Party,204.0
+"13 Elm St. Apt. 2, Norwalk, CT-06850",0,Darline,Perpignan,,Darline Perpignan,3,921,IND,Independent Party,204.0
+"50 Alvord Lane, Stamford, CT-06902",0,Francky,Trofort,,Francky Trofort,6,922,R,Republican Party,135.0
+"20 Dougherty Ave, Plainfield, CT-06374",0,Daniel,Reale,,Daniel Reale,8,923,LI,Libertarian Party,89.0
+"388 Hartford Road 1st Floor, Manchester, CT-06040",0,Richard,Lion,,Richard Lion,8,924,LI,Libertarian Party,89.0
+"123 Georgetown Rd., Weston, CT-06883",0,Bonnie,Troy,,Bonnie Troy,7,925,G,Green Party,112.0
+"145 Clapboard Ridge Rd., Greenwich, CT-06831",0,Richard,Blumenthal,,Richard Blumenthal,12,926,WF,Working Families Party,22.0
+"1887 Old Main St., East Hartford, CT-06108",0,John,Larson,B,John B. Larson,12,927,WF,Working Families Party,22.0
+"9 Tobias Court, Vernon, CT-06066",0,Joe,Courtney,,Joe Courtney,12,928,WF,Working Families Party,22.0
+"227 Church Street, Unit #2A, New Haven, CT-06511",0,Rosa,DeLauro,L.,Rosa L. DeLauro,12,929,WF,Working Families Party,22.0
+"77 Wintonbury Ave., Bloomfield, CT-06002",0,Eric,Coleman,D.,Eric D. Coleman,12,931,WF,Working Families Party,22.0
+"674 Lincoln St., New Britain, CT-06052",0,Terry,Bielinski Gerratana,,Terry Bielinski Gerratana,12,932,WF,Working Families Party,22.0
+"187 Scotland Rd., Baltic, CT-06330",0,Catherine,Osten,A.,Catherine A. Osten,12,934,WF,Working Families Party,22.0
+"666 Cleveland Ave., Bridgeport, CT-06604",2,Marilyn,Moore,V.,Marilyn V. Moore,12,935,WF,Working Families Party,22.0
+"243 Soundview Ave., Bridgeport, CT-06606",0,Ed,Gomes,,Ed Gomes,12,936,WF,Working Families Party,22.0
+"73 Southbury Road, Roxbury, CT-06783",0,Greg,Cava,,Greg Cava,12,937,WF,Working Families Party,22.0
+"15 Columbia Landing, Columbia, CT-06237",0,Thomas,Currier,,Thomas Currier,12,938,WF,Working Families Party,22.0
+"5 Elaine Drive, East Hartford, CT-06118",0,Henry,Genga,,Henry Genga,12,939,WF,Working Families Party,22.0
+"45 Chatham Dr., Manchester, CT-06042",0,Kelly,Luxenberg,J.S.,Kelly J.S. Luxenberg,12,940,WF,Working Families Party,22.0
+"150 Belridge Rd., New Britain, CT-06053",0,Peter,Tercyak,A.,Peter A. Tercyak,12,941,WF,Working Families Party,22.0
+"277 Pearl St., Enfield, CT-06082",0,David,Alexander,,David Alexander,12,942,WF,Working Families Party,22.0
+"19 Lancer Dr., Enfield, CT-06082",0,Anthony,DiPace,M.,Anthony M. DiPace,12,943,WF,Working Families Party,22.0
+"89 Cherniske Rd., New Millford, CT-06776",0,Mary Jane,Lundgren,,Mary Jane Lundgren,12,944,WF,Working Families Party,22.0
+"134 Gaylord Dr., Waterbury, CT-06708",0,Jeffrey,Berger,J.,Jeffrey J. Berger,12,945,WF,Working Families Party,22.0
+"552 Chapel St., New Haven, CT-06511",0,Roland,Lemar,J.,Roland J. Lemar,12,946,WF,Working Families Party,22.0
+"10 Barberry Lane, Woodbridge, CT-06525",0,Aldon,Hnyes,M.,Aldon M. Hynes,12,947,WF,Working Families Party,22.0
+"215 Beach St., West Haven, CT-06516",0,Stephen,Dargan,D.,Stephen D. Dargan,12,948,WF,Working Families Party,22.0
+"1625 Melville Ave., Fairfield, CT-06825",0,Cristin,Vahey,McCarthy,Cristin McCarthy Vahey,12,949,WF,Working Families Party,22.0
+"480 Winchester Ave., New Haven, CT-06511",0,Gary,Winfield,A.,Gary A. Winfield,12,950,WF,Working Families Party,22.0
+"499 Charles Street, Torrington, CT-06790",0,Michelle,Cook,L.,Michelle L. Cook,12,951,WF,Working Families Party,22.0
+"221 Newell Ave, Bristol, CT-06010",0,Krystal,Myers,,Krystal Myers,12,952,WF,Working Families Party,22.0
+"8 East Rocks Road, Norwalk, CT-06851",0,Chris,Perone,,Chris Perone,12,953,WF,Working Families Party,22.0
+"315 Ely Avenue, Norwalk, CT-06850",0,Bruce,Morris,V.,Bruce V. Morris,12,954,WF,Working Families Party,22.0
+"1 Briarwood Road, Norwalk, CT-06850",0,Anna,Duleep,,Anna Duleep,12,955,WF,Working Families Party,22.0
+"388 Hartford Road 1st Floor, Manchester, CT-06040",0,Richard,Lion,,Richard Lion,8,956,LI,Libertarian Party,89.0
+"971 Hopmeadow St, Simsbury, CT-06070",0,Robert,Kaleschman,H.,Robert H. Kalechman,15,957,PC,Petitioning Candidate,0.0
+"29 Ledgewood Rd., Redding, CT-06896",0,John,Shaban,,John Shaban,3,958,IND,Independent Party,204.0
+"398 Pomfret St., Pomfret, CT-06258",0,Pat,Boyd,,Pat Boyd,12,959,WF,Working Families Party,22.0
+"497 High St., Willimantic, CT-06226",0,John,French,,John French,3,961,IND,Independent Party,204.0
+"17 Trotting Horse Dr., Lexington, MA-02421",4,Jill,Stein,,Stein and Baraka,7,962,G,Green Party,112.0
+"850-C Camino Chamisa, Santa Fe, NM-87501",3,Gary,Johnson,Earl,Johnson and Weld,8,963,LI,Libertarian Party,89.0
+"538 Manchester Rd, Glastonbury, CT-06025",0,Jeffery,Russell,,Jeffery Russell,7,964,G,Green Party,112.0
+"14 Pawcatuck Trail, Voluntown, CT-06384",0,Tracey,Hanson,,Tracey Hanson,12,965,WF,Working Families Party,22.0
+"186 Chimney Sweep Hill Rd., Glastonbury, CT-06033",0,Matt,Saunig,,Matt Saunig,12,967,WF,Working Families Party,22.0
+"204 Wright Rd., Danielson, CT-06239",0,Anne,Dauphinais,Dubay,Anne Dubay Dauphinais,6,968,R,Republican Party,135.0
+"17 Maywood Road, Darien, CT-06820",1,Sarah,Baldwin,M.,Sarah M. Baldwin,1033,976,,,
+"16 Sunset Road, Darien, CT-06820",2,Amy,Barsanti,,Amy Barsanti,1033,977,,,
+"385 Middlesex Road, Darien, CT-06820",3,Taylor,Carter,W.,Taylor W. Carter,1033,978,,,
+"216 Leroy Avenue, Darien, CT-06820",4,Diane,Conologue,G.,Diane G. Conologue,1033,979,,,
+"2 Sylvan Road, Darien, CT-06820",5,Christopher,Ezbiansky,,Christopher Ezbiansky,1033,980,,,
+"375 Middlesex Road, Darien, CT-06820",6,Young-Sup,Lee,,Young-Sup Lee,1033,981,,,
+"46 Goodwives River Road, Darien, CT-06820",1,Anstiss,Agnew,,Anstiss Agnew,1033,982,,,
+"59 Delafield Island Road, Darien, CT-06820",2,Elisabeth,Bacon,C.,Elisabeth C. Bacon,1033,983,,,
+"7 Fitch Avenue, Darien, CT-06820",3,Charles,Boulier IV,J.,Charles J. Boulier IV,1033,984,,,
+"52 Old Farm Road, Darien, CT-06820",4,James,Howe,Henry,James Henry Howe,1033,985,,,
+"18 Fitch Avenue, Darien, CT-06820",5,Cheryl,Russell,,Cheryl Russell,1033,986,,,
+"161 Old Kings Highway South, Darien, CT-06820",6,Clara,Sartori,C.,Clara C. Sartori,1033,987,,,
+"67 Hecker Avenue, Darien, CT-06820",7,Joann,Sawitsky,R.,Joann R. Sawitsky,1033,988,,,
+"37 Dickinson Road, Darien, CT-06820",8,Barbara,Thorne,L.,Barbara L. Thorne,1033,989,,,
+"8 Tory Hole Road, Darien, CT-06820",9,Michael,Wheeler,C.,Michael C. Wheeler,1033,990,,,
+"17 Park Lane, Darien, CT-06820",1,Robert,Cardone,,Robert Cardone,1033,991,,,
+"197 Hoyt Street, Darien, CT-06820",2,Jack,Davis,H.,Jack H. Davis,1033,992,,,
+"10 Miller Road, Darien, CT-06820",3,Dennis,Maroney,J.,Dennis J. Maroney,1033,993,,,
+"29 Dubois Street, Darien, CT-06820",1,Joan,Davis,V.,Joan V. Davis,1033,994,,,
+"25 Nearwater Lane, Darien, CT-06820",2,Werner,Domittner,K.,Werner K. Domittner,1033,995,,,
+"11 Nearwater Lane, Darien, CT-06820",4,Joseph,Hardison III,H.,Joseph H. Hardison III,1033,997,,,
+"14 Beach Drive, Darien, CT-06820",5,Phyllis,Hawkins,H.,Phyllis H. Hawkins,1033,998,,,
+"6 Pleasant Street, Darien, CT-06820",6,Brian,Rayhill,J.,Brian J. Rayhill,1033,999,,,
+"69 Holly Lane, Darien, CT-06820",1,Mark,Adiletta,R.,Mark R. Adiletta,1033,1000,,,
+"5 Windsor Road, Darien, CT-06820",2,David,Bayne,F.,David F. Bayne,1033,1001,,,
+"214 West Avenue, Darien, CT-06820",3,John,Boulton,V.,John V. Boulton,1033,1002,,,
+"One Lantern Lane, Darien, CT-06820",4,Terrence,Duffy Jr.,J.,Terrence J. Duffy Jr.,1033,1003,,,
+"72 Holly Lane, Darien, CT-06820",5,Joanne,Hennessy,K.,Joanne K. Hennessy,1033,1004,,,
+"16 Edgerton Street, Darien, CT-06820",6,Laura,Mosher,R.,Laura R. Mosher,1033,1005,,,
+"283 West Avenue, Darien, CT-06820",7,Pamela,Sparkman,H.,Pamela H. Sparkman,1033,1006,,,
+"3 Harriett Lane East, Darien, CT-06820",1,Frank,Adelman,H.,Frank H. Adelman,1033,1007,,,
+"21 Pond Lane, Darien, CT-06820",2,Carlo,Cantavero,,Carlo Cantavero,1033,1008,,,
+"16 Ward Lane, Darien, CT-06820",3,Janet,Grogan,F.,Janet F. Grogan,1033,1009,,,
+"65 Mansfield Avenue, Darien, CT-06820",4,Edgar,Hawkins III,M.,Edgar M. Hawkins III,1033,1010,,,
+"139 Tokeneke Road, Darien, CT-06820",5,Nanci,Natale,,Nanci Natale,1033,1011,,,
+"599 Boston Post Road #301, Darien, CT-06820",6,S. Lloyd,Plehaty,,S. Lloyd Plehaty,1033,1012,,,
+"1 Little Brook Road North, Darien, CT-06820",7,Richard,Poli,,Richard Poli,1033,1013,,,
+"59 McArthur Dr., Hamden, CT-06518",0,Joshua,Elliott,,Joshua Elliott,12,1014,WF,Working Families Party,22.0
+"14 Colman Street, New London, CT-06320",0,Andrew,Lockwood,R.,Andrew R. Lockwood,15,1015,PC,Petitioning Candidate,0.0
+"16 Frew Terrace, Enfield, CT-06082",0,John,Kissel,A.,John A. Kissel,3,1016,IND,Independent Party,204.0
+"30 Egypt Lane, Clinton, CT-06413",0,Ian,Barron,C.,Ian C. Barron,7,1017,G,Green Party,112.0
+"19 Ben Merrill Road, Clinton, CT-06413",0,Austin,Coco,B.,Austin B. Coco,8,1018,LI,Libertarian Party,89.0
+"19 Evergreen Avenue, New London, CT-06320",0,Ronna,Stuller,K.,Ronna K. Stuller,7,1019,G,Green Party,112.0
+"204 Wright Rd., Danielson, CT-06239",0,Anne,Dauphinais,Dubay,Anne Dubay Dauphinais,3,1020,IND,Independent Party,204.0
+"15 Luzon Avenue, Dayville, CT-06241",0,Christine,Randall,Rosati,Christine Rosati Randall,12,1021,WF,Working Families Party,22.0
+"179 Tuckie Rd., North Windham, CT-06256",0,Tony,Fantoli,,Tony Fantoli,3,1022,IND,Independent Party,204.0
+"179 Tuckie Rd., North Windham, CT-06256",0,Tony,Fantoli,,Tony Fantoli,14,1023,,,
+"3 Wiley Lane, Newtown, CT-06470",0,Mitch,Bolinsky,,Mitch Bolinsky,3,1024,IND,Independent Party,204.0
+"10 Colonial Place, West Haven, CT-06516",0,Sean,Ronan,P.,Sean P. Ronan,12,1025,WF,Working Families Party,22.0
+"25 Deerfield Ave., Milford, CT-06460",0,Ben,Gettinger,,Ben Gettinger,12,1026,WF,Working Families Party,22.0
+"65 Redding Rd., Easton, CT-06612",0,Adam,Dunsby,,Adam Dunsby,3,1027,IND,Independent Party,204.0
+"50 St. Nicholas Rd., Darien, CT-06820",0,Terrie,Wood,E.,Terrie E. Wood,3,1028,IND,Independent Party,204.0
+"70 Haley Meadow Rd., Griswold, CT-06351",0,Kevin,Skulczyck,,Kevin Skulczyck,3,1029,IND,Independent Party,204.0
+"426 Connecticut Ave., Newington, CT-06111",0,Gary,Byron,,Gary Byron,3,1030,IND,Independent Party,204.0
+"76 Black Birch Rd., Wethersfield, CT-06109",0,Mike,Hurley,,Mike Hurley,3,1031,IND,Independent Party,204.0
+"76 Black Birch Rd., Wethersfield, CT-06109",0,Mike,Hurley,,Mike Hurley,5,1032,INDP,Independance Party,159.0
+"1804 Hartford Tpke., North Haven, CT-06473",0,David,Yaccarino,,David Yaccarino,3,1033,IND,Independent Party,204.0
+"50 Alvord Lane, Stamford, CT-06902",0,Francky,Trofort,,Francky Trofort,3,1034,IND,Independent Party,204.0
+"53 Whitman Dr., Granby, CT-06035",0,Annie,Hornish,,Annie Hornish,12,1035,WF,Working Families Party,22.0
+"97 Harvest Hill Lane, Stamford, CT-06905",0,Steven,Kolenberg,Bartolo,Steven Bartolo Kolenberg,3,1036,IND,Independent Party,204.0
+"76 Schultz Rd., Berlin, CT-06037",0,Fred,Jortner,,Fred Jortner,1,1037,D,Democratic Party,250.0
+"117 Highland Dr., Torrington, CT-06790",0,Todd,Schaller,M.,Todd M. Schaller,6,1038,R,Republican Party,135.0
+"140 Carriage Road, Bristol, CT-06010",0,Laura,Bartok,,Laura Bartok,1,1040,D,Democratic Party,250.0
+"220 Morningside Dr. East, Bristol, CT-06010",0,Cara,Pavalock,Christine,Cara Christine Pavalock,6,1041,R,Republican Party,135.0
+"220 Morningside Dr. East, Bristol, CT-06010",0,Cara,Pavalock,Christine,Cara Christine Pavalock,3,1042,IND,Independent Party,204.0
+"140 Carriage Road, Bristol, CT-06010",0,Laura,Bartok,,Laura Bartok,12,1043,WF,Working Families Party,22.0
+"844 Old Durham Rd., Wallingford, CT-06492",0,Patrick,Reynolds,,Patrick Reynolds,1,1044,D,Democratic Party,250.0
+"179 Grieb Road, Wallingford, CT-06492",0,Craig,Fishbein,,Craig Fishbein,6,1045,R,Republican Party,135.0
+"51 Hammonassett Meadows Rd., Madison, CT-06443",0,Daria,Novak,,Daria Novak,6,1046,R,Republican Party,135.0
+"39 Oxoboxo Cross Rd., Montville, CT-06370",0,Joseph Mark,Taraya,C.,Joseph Mark C. Taraya,6,1048,R,Republican Party,135.0
+"5806 Prosperity Church Rd., Ste. A2 -144, Charlotte, NC-28269",5,Andrew,Basiago,D.,Basiago and Kinnison,1026,1049,WI,Write-In,274.0
+"4 Logan Pl, Norwalk, CT-06853",6,Paul,Blumenthal,,Blumenthal and Blair,1026,1050,WI,Write-In,274.0
+"P.O. Box 6151, Frederickberg, VA-22403",7,Robert,Buchanan,L.,Buchanan and Washington,1026,1051,WI,Write-In,274.0
+"2586 Hocksett Cove, Germantown, TN-38139",8,Darrell,Castle,L.,Castle and Bradley,1026,1052,WI,Write-In,274.0
+"42 Valleywood Rd., Cos Cob, CT-06807",9,Jeffrey,Cooper,A.,Cooper and Meyer,1026,1053,WI,Write-In,274.0
+"14 Candee Ave., West Haven, CT-06516",10,Darryl,Cummings,,Cummings and Romanoff,1026,1054,WI,Write-In,274.0
+"28 Ladd Rd., Ellington, CT-06029",11,Kevin,Deame,,Deame and Long,1026,1055,WI,Write-In,274.0
+"121 Nurmi Dr., Ft. Lauderdale, FL-33301",12,"""Rocky""",De La Fuente,,De La Fuente and Steinberg,1026,1056,WI,Write-In,274.0
+"27 Bayberry Rd., Bolton, CT-06043",13,Ronald,Evans,,Evans and Fitch,1026,1057,WI,Write-In,274.0
+"1314 Massachusetts NW #208, Washington, DC-20500",14,Cherunda,Fox,,Fox and Kushner,1026,1058,WI,Write-In,274.0
+"P.O. Box 34, Lohrville, IA-51453",15,Tom,Hoefling,,Hoefling and Schulin,1026,1059,WI,Write-In,274.0
+"75 Hockanum Blvd., Apt 3332, Vernon, CT-06066",16,Jeffrey,Klojzy Jr.,John,Klojzy Jr. and LeMay,1026,1060,WI,Write-In,274.0
+"203 St. Botolph St., Apt. 3, Boston, MA-02115",17,Laurence,Kotlikoff,,Kotlikoff and Leamer,1026,1061,WI,Write-In,274.0
+"3207 Mission St., Apt. 9, San Francisco, CA-94110",18,Gloria,La Riva,,La Riva and Puryear,1026,1062,WI,Write-In,274.0
+"25893 N.C.R. 3250, Wynnewood, OK-73098",19,Joseph,Maldonado,,Maldonado and Terranova,1026,1063,WI,Write-In,274.0
+"333 2nd St. NE, Washington, DC-20002",20,Evan,McMullin,,McMullin and Johnson,1026,1064,WI,Write-In,274.0
+"21924 Linden Ave., Lake Villa, IL-60046",21,Marshall,Schoenke,,Schoenke and Mitchell Jr.,1026,1065,WI,Write-In,274.0
+"103 Prince Albert St., Clemson, SC-29631",22,Peter,Skewes,,Skewes and Lacy,1026,1066,WI,Write-In,274.0
+"9180 Lizard Rock Tr., Colorado Springs, CO-80924",23,Mike,Smith,,Smith and White,1026,1067,WI,Write-In,274.0
+"180 Turn of River Rd., 15B, Stamford, CT-06905",24,Jeffrey,Wu,Anthony,Wu and Wu,1026,1068,WI,Write-In,274.0
+"186 Chimney Hill Rd., Yalesville, CT-06492",0,Andrew,Rule,,Andrew Rule,1026,1069,WI,Write-In,274.0
+"25 Standish St., Enfield, CT-06082",0,John,Traceski,,John M. Traceski,1026,1070,WI,Write-In,274.0
+"26 Wilson Ave., Windsor, CT-06095",5,Charles,Jackson,,Charles Jackson,1026,1071,WI,Write-In,274.0
+"381 South Main St., West Hartford, CT-06117",6,Mark,Stewart,,Mark Stewart,1026,1072,WI,Write-In,274.0
+"25 Standish St., Enfield, CT-06082",6,Elizabeth,Traceski,,Elizabeth F. Traceski,1026,1073,WI,Write-In,274.0
+"186 Chimney Hill Rd., Yalesville, CT-06492",4,Andrew,Rule,,Andrew Rule,1026,1074,WI,Write-In,274.0
+"84 Second St., New Haven, CT-06519",5,Christopher,Schaefer,,Christopher Schaefer,1026,1075,WI,Write-In,274.0
+"143 Fernwood Rd., Trumbull, CT-06611",4,Carl,Vassar,E.,Carl E. Vassar,1026,1076,WI,Write-In,274.0
+"29 Old Farms Rd., #15B, Avon, CT-06001",5,Ann-Marie,Adams,,Ann-Marie Adams,1026,1077,WI,Write-In,274.0
+"1106 Fienemann Rd., Farmington, CT-06032",6,Mark,Greenstein,,Mark Greenstein,1026,1078,WI,Write-In,274.0
+"10 Oakcrest Dr, Brookfield, CT-06804",7,John,Pistone,,John Pistone,1026,1079,WI,Write-In,274.0
+"39 Glen Pl, Meriden, CT-06451",8,Aaron,Sperry,,Aaron Sperry,1026,1080,WI,Write-In,274.0
+"26 Wilson Ave., Windsor, CT-06095",4,Charles,Jackson,,Charles Jackson,1026,1081,WI,Write-In,274.0
+"74 Lenox St. #2, Hartford, CT-06112",5,Martha,Kelly,S.,Martha S. Kelly,1026,1082,WI,Write-In,274.0
+"186 Chimney Hill Rd., Yalesviile, CT-06492",4,Andrew,Rule,,Andrew Rule,1026,1083,WI,Write-In,274.0
+"381 Long Hill Rd., Wallingford, CT-06492",3,David,Bedell,,David Bedell,1026,1084,WI,Write-In,274.0
+"239 Old Farms Rd., #15B, Avon, CT-06001",5,Ann-Marie,Adams,,Ann-Marie Adams,1026,1085,WI,Write-In,274.0
+"26 Wilson Ave., Windsor, CT-06095",3,Charles,Jackson,,Charles Jackson,1026,1086,WI,Write-In,274.0
+"49 Oak Dr., Woodstock Valley, CT-06282",4,Ty,Perry,,Ty Perry,1026,1087,WI,Write-In,274.0
+"11 Hillside Ave., Winchester, CT-06098",3,David,LaPointe,,David G. LaPointe,1026,1088,WI,Write-In,274.0
+"340 Mixville Rd., Cheshire, CT-06410",3,Stuart,Korchin,R.,Stuart R. Korchin,1026,1089,WI,Write-In,274.0
+"463 Lake Rd., PO Box 64, Andover, CT-06232",1,Wallace,"Barton, Jr.",E.,Wallace E. Barton Jr.,1026,1090,WI,Write-In,274.0
+"8 Colchester Ave., East Hampton, CT",1,Jodi,Brazal,,Jodi Brazal,1026,1091,WI,Write-In,274.0
+"4 Hawthorne Rd., East Hampton, CT-06424",2,Lori,Wilcox,,Lori A. Wilcox,1026,1092,WI,Write-In,274.0
+"1222 Oenoke Dr, New Canaan, CT-06840",2,John,Amarilios,,John Amarilios,1026,1093,WI,Write-In,274.0
+"487 East Poind Meadow, Westbrook, CT-06498",2,Colin,Bennett,,Colin Bennett,1026,1094,WI,Write-In,274.0
+"213 Preston Ter., Cheshire, CT-06410",1,Elizabeth,Esty,,Elizabeth Esty,12,1095,WF,Working Families Party,22.0
+"1 Brinsmade Lane, Sherman, CT-06784",2,Clay,Cope,,Clay Cope,3,1096,IND,Independent Party,204.0
+"17 Juniper Point Rd., Branford, CT-06405",0,Edward,Kennedy Jr.,,Edward Kennedy Jr.,12,1099,WF,Working Families Party,22.0
+"45 Dairy Hill Rd., Madison, CT-06443",0,Bruce,Wilson Jr.,,Bruce Wilson Jr.,3,1100,IND,Independent Party,204.0
