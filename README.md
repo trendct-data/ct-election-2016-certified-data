@@ -12,10 +12,11 @@ until December. Still it was "good 'nuff for government work."
 
 # total statewide vote results
 
-The /output/merged_state_votes.csv file contains results (vote counts and
-percents), candidate, office and party information for every race on every
-ballot in every town in Connecticut for the Nov. 8 election. (It also
-includes write-in candidates who were not on the ballot...).
+The /output/merged_state_votes_pretty.csv file contains results (vote
+counts and percents), candidate, office and party information for every
+race on every ballot in every town in Connecticut for the Nov. 8
+election. (It also includes write-in candidates who were not on the
+ballot...).
 
 Please feel free to use this for your own analysis. I'd be happy to hear
 from you if you do, by emailing me at jkara@trendct.org, but it's not
@@ -52,5 +53,5 @@ lookup objects candidate names and parties.
 The file election-sheets.py demonstrates how I accomplished some of the
 parsing to populate these graphics. The product of this script are stored
 in the /output/ foler of this repository, most notably in the file
-"merged_state_votes.csv".
+"merged_state_votes_pretty.csv".
 

@@ -111,3 +111,28 @@ e.stateVotes()\
  .join(e.offices(),how="left", rsuffix="_OFFICE")\
  .sort_index().to_csv("output/merged_state_votes.csv",
                       index=False)
+
+# Generate a prettier version of merged
+# Get rid of dumb columns
+print "Generating output/merged_state_votes_pretty.csv"
+pretty = e.stateVotes()\
+ .join(e.candidates().set_index("candId"),how="left")\
+ .set_index("officeId")\
+ .join(e.offices(),how="left", rsuffix="_OFFICE")\
+ .sort_index()
+
+pretty = pretty[[
+    "NM","D","DT",
+    "NM_CAND","LN","FN","MN","AD",
+    "NM_PARTY","CD",
+    "TO","V"
+    ]]
+
+pretty.columns = "office", "district_code","district_name",\
+                 "cand_full_name","cand_lname","cand_fname","cand_mname","cand_address",\
+                 "party_name","party_abbr",\
+                 "vote_pct","vote_count"
+
+
+pretty.to_csv("output/merged_state_votes_pretty.csv",
+                      index=False)
