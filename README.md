@@ -2,7 +2,7 @@
 
 The Secretary of the State's office published complete "real-time" election
 data for the first time during the 2016 presidential election
-(here)[http://ctemspublic.pcctg.net/#/home]. I air-quote "real-time" rather
+[here](http://ctemspublic.pcctg.net/#/home). I air-quote "real-time" rather
 than leave it out altogether, because the data was available as fast as the
 SOTS and town clerks were able to get it into the system, but it wasn't all
 available on election night. 100% of precincts were not reporting data
@@ -48,7 +48,7 @@ downloaded once the values were certified).
 
 I used these data files extensively to update data pages on (the election
 blog and data portal I built for
-TrendCT.org)[https://blogotron.ctmirror.org/election-2016/].
+[TrendCT.org](https://blogotron.ctmirror.org/election-2016/).
 
 It includes information on polling places, town an state election results,
 lookup objects candidate names and parties.
