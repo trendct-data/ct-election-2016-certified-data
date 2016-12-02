@@ -46,9 +46,9 @@ downloaded once the values were certified).
 
 # parsing
 
-I used these data files extensively to update data pages on (the election
+I used these data files extensively to update data pages on [the election
 blog and data portal I built for
-[TrendCT.org](https://blogotron.ctmirror.org/election-2016/).
+TrendCT.org](https://blogotron.ctmirror.org/election-2016/).
 
 It includes information on polling places, town an state election results,
 lookup objects candidate names and parties.
