@@ -27,6 +27,9 @@ cases, they appear in the table as separate candidates. You would need to
 combine them to calculate accurate vote totals for a specific
 individual. There were no cross endorsements in the presidential race.
 
+Also note that districts don't apply to presidential, senate and other
+local races. Zeros are filled in those columns.
+
 If you want to parse out data that I haven't included in the spreadsheet
 but which the SOTS' raw data includes, read on.
 
