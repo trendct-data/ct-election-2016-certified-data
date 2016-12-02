@@ -1,5 +1,7 @@
 # Exploring official CT election data
 
+jkara@trendct.org
+
 The Secretary of the State's office published complete "real-time" election
 data for the first time during the 2016 presidential election
 [here](http://ctemspublic.pcctg.net/#/home). I air-quote "real-time" rather
@@ -58,3 +60,8 @@ parsing to populate these graphics. The product of this script are stored
 in the /output/ foler of this repository, most notably in the file
 "merged_state_votes_pretty.csv".
 
+# accuracy
+
+I haven't rigorously tested the accuracy data against the state's [data
+website](http://ctemspublic.pcctg.net/#/home), so if you find mistakes,
+please let me know. 
